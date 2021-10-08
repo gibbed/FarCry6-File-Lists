@@ -1,4 +1,4 @@
-; 3711/18545 (20%)
+; 3755/18545 (20%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -868,6 +868,12 @@ ui\tetra\textures\1newui\menus\pause\x_tooltip\tx_tooltip_map_playerbase_slot.xb
 ui\tetra\textures\1newui\menus\pause\x_tooltip\tx_tooltip_mod_locked.xbt
 ui\tetra\textures\1newui\menus\pause\x_tooltip\tx_tooltip_promptsbg.xbt
 ui\tetra\textures\1newui\menus\pause\x_tooltip\tx_tooltip_socket.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_blooddragonpack.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_crochunterpack.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_lostexplorerpack.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_preorderpack.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_starterpack.xbt
+ui\tetra\textures\1newui\menus\ulcpacks\tx_ulcpack_ultimatepack.xbt
 ui\tetra\textures\1newui\menus\x_modaldialogue\tx_modal_bottom1.xbt
 ui\tetra\textures\1newui\menus\x_modaldialogue\tx_modal_top1.xbt
 ui\tetra\textures\1newui\menus\x_notifications\tx_equipped_aqua.xbt
@@ -1041,6 +1047,7 @@ ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_pesos.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_boarmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_durableseals.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_gasolina.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_hardcurrency.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_industrialcircuits.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_industrialcomposite.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_medicine.xbt
@@ -1115,6 +1122,11 @@ ui\tetra\textures\common\tx_common_filled_circle_64px.xbt
 ui\tetra\textures\common\tx_common_stroke_1px.xbt
 ui\tetra\textures\fullpagetutorial\tx_fullpagetutorial_background.xbt
 ui\tetra\textures\gearicons\placeholder\throwables\tx_hud_dynamite.xbt
+ui\tetra\textures\gearicons\storetiles\addons\bg_currency_0.xbt
+ui\tetra\textures\gearicons\storetiles\addons\bg_currency_1.xbt
+ui\tetra\textures\gearicons\storetiles\addons\bg_currency_2.xbt
+ui\tetra\textures\gearicons\storetiles\addons\bg_currency_3.xbt
+ui\tetra\textures\gearicons\storetiles\addons\bg_currency_4.xbt
 ui\tetra\textures\gearicons\storetiles\addons\bg_dlc0.xbt
 ui\tetra\textures\gearicons\storetiles\addons\currency_gradient.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_bundle__kingandcountry_22.xbt
@@ -1125,6 +1137,7 @@ ui\tetra\textures\gearicons\storetiles\background\bg_bundle_rainbowsix_22.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_bundle_wdlegion_22.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_large_spray_cans_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_all_12.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_all_22.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_campchefrecipes_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_campchefrecipes_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_chicken_cages_11.xbt
@@ -1132,6 +1145,7 @@ ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_chicken_cages_12.
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_usbsticks_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_medium_spray_cans_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_small_spray_cans_12.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_standalone_armyhorse_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_cometcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_eastereggcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_ffh_80s_11.xbt
@@ -1142,12 +1156,17 @@ ui\tetra\textures\gearicons\storetiles\background\bg_standalone_firearm_psg12_11
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_firearm_rpd_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_fishbowlcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_gamepadcharm_11.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_standalone_hellhorse_11.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_standalone_jetski_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_lavalampcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_rabbitfootcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_scarabcharm_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_standalone_stpaddycharm_11.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_standalone_warhorse_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\standalone_atvsveh_sidecar_02_dlc_ww2.xbt
+ui\tetra\textures\gearicons\storetiles\background\standalone_coupe_veh_coupe_old_dlc_rally_yara.xbt
 ui\tetra\textures\gearicons\storetiles\background\standalone_ffh_guapo.xbt
+ui\tetra\textures\gearicons\storetiles\background\standalone_vehiclesseaveh_water_hovercraft_01_dlc_sky_pirate.xbt
 ui\tetra\textures\gearicons\storetiles\background\ubiconnect_antoine_vs_libertad_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\ubiconnect_crafting_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\ubiconnect_pesos_11.xbt
@@ -1178,12 +1197,14 @@ ui\tetra\textures\gge_icons\tx_gge_icon_backpacksupertriggeredbuff_plaguedoctor.
 ui\tetra\textures\gge_icons\tx_gge_icon_backpacksupertriggeredbuff_resolverbooster.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_blindness_resistance.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_bow_ammo_pocket.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_bow_hold_breath_duration.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_cd_launcher_audio_mode.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_cd_launcher_standard_cds.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_cd_launcher_standard_ejector.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_cd_launcher_standard_rotor.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_crafting_resource_looter.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_croc_meat_booster.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_daytime_noise_reduction.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_default_blueprint_placeholder.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_emp_rifle_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_explosive_sniper_ammo_pocket.xbt
@@ -1196,15 +1217,18 @@ ui\tetra\textures\gge_icons\tx_gge_icon_flame_thrower_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_flamethrower_low_pressure_nozzle.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_flamethrower_standard_fuel_injector.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_flamethrower_standard_fuel_pump.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_flintlock_starboardstunner.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_fmj_and_explosion_resistance.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_freshoffthepress.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_gadget_remoteelectric.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_gas_mask_goggles.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_greed.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_headshot_bullet_refund.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_headshot_supremo.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_healing_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_highend_overclock.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_highground.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_hold_breath_damage_reduction.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_holster_move_speed.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_hunting_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_impaler_bait.xbt
@@ -1214,6 +1238,8 @@ ui\tetra\textures\gge_icons\tx_gge_icon_impaler_standard_chamber.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_impaler_standard_shaft.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_impaler_stock_harpoons.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_keep_it_cool.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_large_secondary_ammo_pocket.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_large_stamina_recovery_rate.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_large_weapon_sway.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_lmg_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_loafers.xbt
@@ -1226,13 +1252,16 @@ ui\tetra\textures\gge_icons\tx_gge_icon_medium_secondary_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_speed_boost.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_stamina_capacity.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_stamina_recovery_rate.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_medium_weapon_sway.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_minor_guerrilla_defender.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_move_speed_for_noise_reduction.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_move_speed_while_reloading.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_standard_pressure.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_stock_compressor.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_stock_nail_coil.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_pesos_for_civilian_liberation.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_pickpocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_poison_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_poison_thrower_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_poison_thrower_standard_dispersal.xbt
@@ -1248,6 +1277,7 @@ ui\tetra\textures\gge_icons\tx_gge_icon_saboteur_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_scout_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_secondary_ammo_looter.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_secondary_ammo_pocket_for_noise_reduction.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_shallow_water_move_speed.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_shield_homemade_shield.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_shield_shells.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_shield_shotgun_ammo_pocket.xbt
@@ -1401,13 +1431,20 @@ ui\tetra\textures\hud\weaponicons\placeholder\tx_icon_tool.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_autopistol_ajm9.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_autopistol_skorpion.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_lmg_rpd.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_pistol_1911.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_pistol_flintlock.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_pistol_markvi.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_mpm.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_pistol_p226.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_resolver_cdlauncher.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_flamethrower.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_impaler.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_nailgun.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_rifle_4570.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_rifle_fal.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_rifle_ms16s.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_rifle_pieperrevolvingcarbine.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_shotgun_m133.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_shotgun_sbs.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_sniper_cubansra.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_sniper_kobracon.xbt
@@ -1736,6 +1773,7 @@ ui\zeta\phoenix\sources\enums\selectoroptionicon_53557bc5-ed1c-4eac-8400-ecd4209
 ui\zeta\phoenix\sources\enums\slidervalueformat_915951f9-368e-42b3-a7b4-e436227c2101.spx
 ui\zeta\phoenix\sources\enums\storeaddontype_c384f89f-eded-4d2b-9f0c-6503863568ce.spx
 ui\zeta\phoenix\sources\enums\storebundleitemtype_334c7570-ea0a-4a1b-ba57-bcb1e2fa5973.spx
+ui\zeta\phoenix\sources\enums\storecoinbanner_cdb90161-ec64-49f6-998f-dac894cd913d.spx
 ui\zeta\phoenix\sources\enums\storeresourcetype_242fdd52-7294-45a9-9d20-d3c33efbd76e.spx
 ui\zeta\phoenix\sources\enums\storetabtype_49cc1033-32d5-45be-80d7-5e825cb68956.spx
 ui\zeta\phoenix\sources\enums\storetilebackroundtype_6592aa7e-0551-43df-be73-3a7e9679c3a5.spx
@@ -1796,6 +1834,7 @@ ui\zeta\phoenix\sources\images\3d_party_stick_left.png_701ffd73-3e64-4002-abc9-9
 ui\zeta\phoenix\sources\images\3d_party_stick_press.png_ba86e5c2-a22d-442d-8a3e-50fe7a7def19.spx
 ui\zeta\phoenix\sources\images\3d_party_stick_right.png_55629863-4f2b-41bc-843d-0bd2f9d29fcb.spx
 ui\zeta\phoenix\sources\images\3d_party_stick_up.png_96a16677-ae14-41aa-9f33-4d93af5ab157.spx
+ui\zeta\phoenix\sources\images\bg_currency_0.png_a4b0f0f7-9e81-49dc-bb0d-dee161054d4a.spx
 ui\zeta\phoenix\sources\images\bg_dlc0.png_bf227c34-ec08-4500-9d9a-ead74e326d86.spx
 ui\zeta\phoenix\sources\images\black64x64.png_dd93bc55-a046-4def-8f1a-f65c20b64e9b.spx
 ui\zeta\phoenix\sources\images\blood_splatter01_temp.png_05866afe-f1c3-43f9-ac2f-c84c00f99d42.spx
@@ -2429,6 +2468,7 @@ ui\zeta\phoenix\sources\images\tx_quality_star_sml.png_512b6c47-9752-48d6-ae9d-a
 ui\zeta\phoenix\sources\images\tx_repair_gauge_icon.png_febe514d-0c3b-43e4-b5ec-7c8097f31046.spx
 ui\zeta\phoenix\sources\images\tx_repair_gauge_outline.png_c9d4a67d-fcba-4406-a02c-8316bcee7fba.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconhud_pesos.png_2f7fc474-10db-4e8b-aca8-ef47965159af.spx
+ui\zeta\phoenix\sources\images\tx_resources_iconlarge_hardcurrency.png_063b3373-d8c8-4b51-84b1-11cd37d3628f.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconsmall_gasolina.png_70b314fb-6ea8-4a95-8955-73dd12fec5e5.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconsmall_hardcurrency.png_d0cce58b-c904-4c53-94b1-eea49727682e.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconsmall_livecurrency.png_1ab0db18-ff0b-40b5-bd2e-a2d255850725.spx
@@ -2902,6 +2942,10 @@ ui\zeta\phoenix\sources\widgets\fangsforhiretooltipperklist_fbcb8a7b-8a90-461e-a
 ui\zeta\phoenix\sources\widgets\fictionwarningcontent_7b3054d4-adaa-4393-b8ce-10d7ade53a6b.spx
 ui\zeta\phoenix\sources\widgets\fire_c1575d22-7f75-4702-bc23-91b91f3f7d58.spx
 ui\zeta\phoenix\sources\widgets\firstnamebg_dc1da046-40f8-4a63-9d1f-e926cbb68573.spx
+ui\zeta\phoenix\sources\widgets\firstpartystorebonus_c24b2aee-e7de-49da-855c-1663fa4618c3.spx
+ui\zeta\phoenix\sources\widgets\firstpartystoreprice_8cdb5445-b5ed-4025-a9b7-d0b338cf9d3b.spx
+ui\zeta\phoenix\sources\widgets\firstpartystoretile_0aa3e6ff-c043-44d4-8cf1-d15ec03413de.spx
+ui\zeta\phoenix\sources\widgets\firstpartystoretiles_926c5b7a-b786-47b1-8076-1f0dd9127140.spx
 ui\zeta\phoenix\sources\widgets\floatingdamage_09ad5960-96f8-4db9-9289-485f0f84988b.spx
 ui\zeta\phoenix\sources\widgets\floatingdamagefulllist_652c923a-f827-45e9-9bb6-32de6cd758c4.spx
 ui\zeta\phoenix\sources\widgets\floatingdamagelist_8ba07620-c2e2-4826-b95d-a63ebe3f4852.spx
