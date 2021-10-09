@@ -1,4 +1,4 @@
-; 7305/66056 (11%)
+; 7306/66056 (11%)
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_binkextension_v02.animtrackcol
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_v02.animtrackcol
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_car_v02.mab
@@ -5673,6 +5673,7 @@ graphics\_materials\trichter-m-20200218131356.material.bin
 graphics\_materials\trichter-m-20200218131412.material.bin
 graphics\_materials\vog-m-3741229211-b1-atlas.material.bin
 graphics\_materials\vtoutee-m-20171011093103.material.bin
+graphics\_materials\vtoutee-m-20200428180800.material.bin
 graphics\_materials\wqingxia-m-20161130095154.material.bin
 graphics\_materials\wqingxia-m-20161130175259.material.bin
 graphics\_materials\wqingxia-m-20161207193942.material.bin
