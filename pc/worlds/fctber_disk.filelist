@@ -1,4 +1,4 @@
-; 7457/66056 (11%)
+; 7473/66056 (11%)
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_binkextension_v02.animtrackcol
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_v02.animtrackcol
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_car_v02.mab
@@ -3622,6 +3622,7 @@ graphics\_materials\chermosilla-m-20200709213911.material.bin
 graphics\_materials\chermosilla-m-20200709214921.material.bin
 graphics\_materials\chermosilla-m-20200721230322.material.bin
 graphics\_materials\chermosilla-m-20200722172246.material.bin
+graphics\_materials\chermosilla-m-20200722212048.material.bin
 graphics\_materials\chermosilla-m-20200728191410.material.bin
 graphics\_materials\chermosilla-m-20200729140515.material.bin
 graphics\_materials\chermosilla-m-20200729170350.material.bin
@@ -3840,6 +3841,12 @@ graphics\_materials\dguillon-m-20190315151228.material.bin
 graphics\_materials\dguillon-m-20190319142451.material.bin
 graphics\_materials\dguillon-m-20190418115349.material.bin
 graphics\_materials\dguillon-m-20190424142142.material.bin
+graphics\_materials\dguillon-m-20201119115048.material.bin
+graphics\_materials\dguillon-m-20201119145627.material.bin
+graphics\_materials\dguillon-m-20201119153850.material.bin
+graphics\_materials\dguillon-m-20201119164718.material.bin
+graphics\_materials\dguillon-m-20201119165704.material.bin
+graphics\_materials\dguillon-m-20201124154018.material.bin
 graphics\_materials\dmccrea-m-20200401164808.material.bin
 graphics\_materials\dmccrea-m-20200402151552.material.bin
 graphics\_materials\dmccrea-m-20200402214850.material.bin
@@ -3867,6 +3874,10 @@ graphics\_materials\dpjiang-m-20160818164828.material.bin
 graphics\_materials\dpjiang-m-20160822095637.material.bin
 graphics\_materials\drpulmano-m-20190703113814.material.bin
 graphics\_materials\drpulmano-m-20190705145450.material.bin
+graphics\_materials\drpulmano-m-20190813180014.material.bin
+graphics\_materials\drpulmano-m-20190814104239.material.bin
+graphics\_materials\drpulmano-m-20190814105507.material.bin
+graphics\_materials\drpulmano-m-20190814111500.material.bin
 graphics\_materials\drpulmano-m-20190815152015.material.bin
 graphics\_materials\drpulmano-m-20190815152016.material.bin
 graphics\_materials\drpulmano-m-20190815152017.material.bin
@@ -5140,6 +5151,8 @@ graphics\_materials\mkang-m-20190329124914.material.bin
 graphics\_materials\mkang-m-20191122125800.material.bin
 graphics\_materials\mkang-m-20191122192535.material.bin
 graphics\_materials\mkang-m-20200507131336.material.bin
+graphics\_materials\mkang-m-20200726010915.material.bin
+graphics\_materials\mkang-m-20200726011310.material.bin
 graphics\_materials\mkang-m-20200727101749.material.bin
 graphics\_materials\mniemczynska-m-20191210164052.material.bin
 graphics\_materials\mniemczynska-m-20191210164240.material.bin
@@ -5797,6 +5810,8 @@ graphics\_materials\tmills-m-20200504094152.material.bin
 graphics\_materials\tmills-m-20200504094153.material.bin
 graphics\_materials\tmills-m-20200504100344.material.bin
 graphics\_materials\tmills-m-20200507170123.material.bin
+graphics\_materials\tmills-m-20200528102615.material.bin
+graphics\_materials\tmills-m-20200528103242.material.bin
 graphics\_materials\tmills-m-20200608112905.material.bin
 graphics\_materials\tmills-m-20210118133818.material.bin
 graphics\_materials\trichter-m-20200218131356.material.bin
@@ -6151,6 +6166,7 @@ graphics\world\_textures\manmadeshared\branding\government\regime\branding_billb
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_03_b_mips.xbt
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_05_h.xbt
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_05_h_mips.xbt
+graphics\world\_textures\manmadeshared\branding\guerilla\garage_rustic_large_01_graffiti_h.xbt
 graphics\world\_textures\manmadeshared\branding\shared\brandingshared_east_01_b.xbt
 graphics\world\_textures\manmadeshared\branding\shared\brandingshared_east_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\bricks\brick_clayhollow_01\brick_clayhollow_01_b.xbt

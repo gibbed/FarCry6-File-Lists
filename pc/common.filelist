@@ -1,4 +1,4 @@
-; 4061/18545 (21%)
+; 4075/18545 (21%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -996,6 +996,7 @@ ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_assaultrifle.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_autopistol.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_lmg.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_pistol.xbt
+ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_smg.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammo_icon_sniper.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammoresolver_icon_fuelcan.xbt
 ui\tetra\textures\1newui\x_icons\ammo\tx_ammoresolver_icon_impaler.xbt
@@ -1014,6 +1015,7 @@ ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key05.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key06.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key07.xbt
 ui\tetra\textures\1newui\x_icons\collection\musictracks\tx_collection_icon_musictracks.xbt
+ui\tetra\textures\1newui\x_icons\collection\oluwaidols\tx_collection_icon_oluwaidols_ida.xbt
 ui\tetra\textures\1newui\x_icons\commonicons\tx_icon_common_arrow.xbt
 ui\tetra\textures\1newui\x_icons\commonicons\tx_icon_common_arrowoutline.xbt
 ui\tetra\textures\1newui\x_icons\commonicons\tx_icon_common_groundcircle.xbt
@@ -1095,6 +1097,7 @@ ui\tetra\textures\1newui\x_icons\minimap\tx_minimap_enemyabove.xbt
 ui\tetra\textures\1newui\x_icons\minimap\tx_minimap_foreman.xbt
 ui\tetra\textures\1newui\x_icons\minimap\tx_minimap_guerrillacolumn.xbt
 ui\tetra\textures\1newui\x_icons\minimap\tx_minimap_workbench.xbt
+ui\tetra\textures\1newui\x_icons\missiongivers\tx_missiongiver_alejandro.xbt
 ui\tetra\textures\1newui\x_icons\missiongivers\tx_missiongiver_benito.xbt
 ui\tetra\textures\1newui\x_icons\missiongivers\tx_missiongiver_carlos.xbt
 ui\tetra\textures\1newui\x_icons\missiongivers\tx_missiongiver_chorizo.xbt
@@ -1127,8 +1130,10 @@ ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_06_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_07.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_07_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_08.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_08_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_09_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_10_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_11_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_invalid.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_invalid_small.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_depleteduranium.xbt
@@ -1177,6 +1182,7 @@ ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_airdrop.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_alarm.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_ammocontainer.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_assaulter.xbt
+ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_auto_turret.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_berzerker.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_coolingstation.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_craftingmaterials.xbt
@@ -1196,6 +1202,7 @@ ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_medic.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_militarychests.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_mission_objective.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_mortar.xbt
+ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_named_weapon_chest.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_officer.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_oluwaidol.xbt
 ui\tetra\textures\1newui\x_icons\taggables\tx_taggableicon_pistolero.xbt
@@ -1335,6 +1342,9 @@ ui\tetra\textures\gge_icons\tx_gge_icon_fall_damage_armour.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_fire_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_ammo_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_basic_fireworks.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_faster_drawholster.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_heat_seeking.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_long_fuse.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_short_fuse.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_firework_launcher_standard_casing.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_firstshotbonus.xbt
@@ -1396,6 +1406,7 @@ ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_shorter_compression.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_standard_pressure.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_stock_compressor.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_nailgun_stock_nail_coil.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_night_vision.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_pesos_for_civilian_liberation.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_pickpocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_poison_armour_for_stamina_recovery.xbt
@@ -1455,6 +1466,7 @@ ui\tetra\textures\gge_icons\tx_gge_icon_vampiric.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_visual_detection_speed.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_acogoptic.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_ammotypeemparrow.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_basicsuppressor.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_bowcrosshairoptic.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_bowpegsoptic.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_weaponattachment_bowreflexoptic.xbt
@@ -1595,6 +1607,7 @@ ui\tetra\textures\hud\weaponicons\tx_icon_pistol_markvi.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_mpm.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_p226.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_cdlauncher.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_resolver_fireworkslauncher.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_flamethrower.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_impaler.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_resolver_nailgun.xbt
@@ -1750,6 +1763,7 @@ ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_i
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_buff.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_debuff.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_intel_60.xbt
+ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_intels_ambush_32.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_intels_ambush_48.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_intels_ambush_64.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_intels_assault_32.xbt
