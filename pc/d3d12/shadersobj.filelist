@@ -1,4 +1,4 @@
-; 12007/56934 (21%)
+; 12011/56934 (21%)
 engine\shaders\obj\h00\x00000080.pso
 engine\shaders\obj\h00\x00000080.vso
 engine\shaders\obj\h00\x00000100.pso
@@ -5197,6 +5197,8 @@ engine\shaders\obj\h37\x000034b7.pso
 engine\shaders\obj\h37\x000034b7.vso
 engine\shaders\obj\h37\x000037b7.pso
 engine\shaders\obj\h37\x000037b7.vso
+engine\shaders\obj\h37\x000038b7.pso
+engine\shaders\obj\h37\x000038b7.vso
 engine\shaders\obj\h37\x000039b7.pso
 engine\shaders\obj\h37\x000039b7.vso
 engine\shaders\obj\h37\x00004437.pso
@@ -9980,6 +9982,8 @@ engine\shaders\obj\h68\x00002d68.pso
 engine\shaders\obj\h68\x00002d68.vso
 engine\shaders\obj\h68\x00002f68.pso
 engine\shaders\obj\h68\x00002f68.vso
+engine\shaders\obj\h68\x000037e8.pso
+engine\shaders\obj\h68\x000037e8.vso
 engine\shaders\obj\h68\x000038e8.pso
 engine\shaders\obj\h68\x000038e8.vso
 engine\shaders\obj\h68\x00003968.pso
