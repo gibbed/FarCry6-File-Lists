@@ -1,4 +1,4 @@
-; 50406/245613 (20%)
+; 50563/245613 (20%)
 animations\ai\facial\emotion\fc5_dead_face_01.dpax
 animations\ai\facial\emotion\fc5_disgusted_facial_pose.dpax
 animations\ai\facial\emotion\fc5_facial_generic_amused_emotion_loop.dpax
@@ -792,7 +792,11 @@ animations\ai\stp\syncanim\hostage\host_beating_st_noweapon_m_lead_main_02.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-arrested_potthreat_ar15_-extra_loop.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-bullyrobbery_-st_noweap_--extra_-start.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-bullyrobbery_-st_noweap_--lead_-start.mab
+animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--extra_-end.mab
+animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--extra_-loop.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--extra_-start.mab
+animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--lead_-end.mab
+animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--lead_-loop.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-exhaustedforcedbacktowork____02--lead_-start.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-fullbodysearch_--anxious_--extra___01-syncloop.mab
 animations\ai\stp\syncanim\oppr\aistp_oppr-fullbodysearch_--anxious_--extra___01-syncstart.mab
@@ -811,6 +815,8 @@ animations\ai\stp\syncanim\sport\aistp_sport-fistfightguerilla_--extra___01-sync
 animations\ai\stp\syncanim\sport\aistp_sport-fistfightguerilla_--extra___01-syncstart.mab
 animations\ai\stp\syncanim\sport\aistp_sport-fistfightguerilla_--lead___01-syncloop.mab
 animations\ai\stp\syncanim\sport\aistp_sport-fistfightguerilla_--lead___01-syncstart.mab
+animations\ai\stp\syncanim\sport\aistp_sport-pitchingcatchingbaseball___01-start_extra.mab
+animations\ai\stp\syncanim\sport\aistp_sport-pitchingcatchingbaseball___01-start_lead.mab
 animations\ai\stp\syncanim\sport\aistp_sport-playingdice_nothreat-sit__--extra_-syncstart.mab
 animations\ai\stp\syncanim\sport\aistp_sport-playingdice_nothreat-sit__--lead_-syncstart.mab
 animations\animals\dog_basic\dog_basic_fulb_relax_stp_peting_02.mab
@@ -1077,6 +1083,7 @@ animations\player\gameplay\navigation\motionmatching\player_mm_strafenavstartsto
 animations\player\gameplay\navigation\motionmatching\player_mm_strafenavstartstop_stand-walk_v02b_noweapon.mab
 animations\player\gameplay\navigation\motionmatching\player_mm_strafenavstartstop_stand-walk_v03_noweapon.mab
 animations\player\gameplay\navigation\motionmatching\player_mm_strafenavstartstop_stand-walk_v03b_noweapon.mab
+animations\prototype\objects\garagedoor_open.mab
 animflow\ai\animgraphblob\animation_graphs_machines.blob.xml
 animflow\ai\primarytrack\aiprimaryactivatealarm.gosm.xml
 animflow\ai\primarytrack\aiprimarybaseballminigame.gosm.xml
@@ -1461,6 +1468,9 @@ domino\user\fc6_main\activities\fc6_liberation_points\b2_poi_05_owl.b2_poi_05_ow
 domino\user\fc6_main\activities\fc6_liberation_points\g1_poi_07_owl.g1_poi_07_owl_prehostile.lua
 domino\user\fc6_main\activities\fc6_liberation_points\g2_poi_04_owl.g2_poi_04_owl_hostile.lua
 domino\user\fc6_main\activities\fc6_liberation_points\g2_poi_04_owl.g2_poi_04_owl_success.lua
+domino\user\fc6_main\activities\fc6_liberation_points\g3_poi_07_owl.g3_poi_07_owl_hostile.lua
+domino\user\fc6_main\activities\fc6_liberation_points\g3_poi_07_owl.g3_poi_07_owl_success.lua
+domino\user\fc6_main\activities\fc6_liberation_points\g3_poi_11_owl.g3_poi_11_owl_hostile.lua
 domino\user\fc6_main\activities\fc6_liberation_points\h1_poi_05_owl.h1_poi_05_owl_hostile.lua
 domino\user\fc6_main\activities\fc6_liberation_points\h1_poi_05_owl.h1_poi_05_owl_success.lua
 domino\user\fc6_main\activities\fc6_minigames\racing_generic.racing_brief.lua
@@ -1483,6 +1493,7 @@ domino\user\fc6_main\activities\fc6_missions\mis0020\mis0020_brief.mis0020_brief
 domino\user\fc6_main\activities\fc6_missions\mis0020\mis0020_prebrief.mis0020_prebrief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0020\mis0020_ulc.mis0020_ulc.lua
 domino\user\fc6_main\activities\fc6_missions\mis0020\mis020_debrief.mis020_debrief.lua
+domino\user\fc6_main\activities\fc6_missions\mis0030\mis0030_brief.mis0030_brief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0080\mis0080_b05.mis0080_b05.lua
 domino\user\fc6_main\activities\fc6_missions\mis0080\mis0080_b10.mis0080_b10.lua
 domino\user\fc6_main\activities\fc6_missions\mis0080\mis0080_b10_omni_tracker.mis0080_b10_omni_tracker.lua
@@ -1498,7 +1509,13 @@ domino\user\fc6_main\activities\fc6_missions\mis0090\mis0090_b60.mis0090_b60.lua
 domino\user\fc6_main\activities\fc6_missions\mis0090\mis0090_brief.mis0090_brief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0090\mis0090_debrief.mis0090_debrief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b10.mis0100_b10.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b20.mis0100_b20.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b25.mis0100_b25.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b30.mis0100_b30.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b40.mis0100_b40.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_b50.mis0100_b50.lua
 domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_brief.mis0100_brief.lua
+domino\user\fc6_main\activities\fc6_missions\mis0100\mis0100_debrief.mis0100_debrief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0140\mis0140_prebrief_omni.mis0140_prebrief_omni.lua
 domino\user\fc6_main\activities\fc6_missions\mis0170\mis0170_brief.mis0170_brief.lua
 domino\user\fc6_main\activities\fc6_missions\mis0170\mis0170_prebrief.mis0170_prebrief.lua
@@ -1530,6 +1547,8 @@ domino\user\fc6_main\activities\fc6_outposts\b2\b2_outpost_01.b2_outpost_01_host
 domino\user\fc6_main\activities\fc6_outposts\b2\b2_outpost_01.b2_outpost_01_success.lua
 domino\user\fc6_main\activities\fc6_outposts\f1\f1_outpost_01.f1_outpost_01_hostile.lua
 domino\user\fc6_main\activities\fc6_outposts\f1\f1_outpost_01.f1_outpost_01_success.lua
+domino\user\fc6_main\activities\fc6_outposts\g3\g3_outpost_01.g3_outpost_01_hostile.lua
+domino\user\fc6_main\activities\fc6_outposts\g3\g3_outpost_01.g3_outpost_01_success.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0010\pgm0010_b20.pgm0010_b20.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0010\pgm0010_b21.pgm0010_b21.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0010\pgm0010_b22.pgm0010_b22.lua
@@ -1575,6 +1594,7 @@ domino\user\fc6_main\activities\fc6_playgo\pgm0060\pgm0060_b22.pgm0060_b22.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0060\pgm0060_b24.pgm0060_b24.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0060\pgm0060_brief.pgm0060_brief.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0060\pgm0060_debrief.pgm0060_debrief.lua
+domino\user\fc6_main\activities\fc6_playgo\pgm0070\pgm0070_b00_beforemission.pgm0070_b00_beforemission.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0070\pgm0070_b05.pgm0070_b05.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0070\pgm0070_b05.pgm0070_b05_music.lua
 domino\user\fc6_main\activities\fc6_playgo\pgm0070\pgm0070_b07.pgm0070_b07.lua
@@ -1643,6 +1663,7 @@ domino\user\gym_encounters\militaryescortoutcastgroup.militaryescortoutcastgroup
 domino\user\gym_encounters\militaryfistfightguerrilla.militaryfistfightguerrilla.lua
 domino\user\gym_encounters\militaryfixgenerator.militaryfixgenerator.lua
 domino\user\gym_encounters\militaryguarddog.militaryguarddog.lua
+domino\user\gym_encounters\militaryguerrillastandoff.militaryguerrillastandoff.lua
 domino\user\gym_encounters\militaryhostageprisonervan.militaryhostageprisonervan.lua
 domino\user\gym_encounters\militaryhostageroadside.militaryhostageroadside.lua
 domino\user\gym_encounters\militaryhostagesystemic.militaryhostagesystemic.lua
@@ -14024,6 +14045,7 @@ generated\worlds\fc6_main\levels\c1\worldsectors\sector5150.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5151.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5151.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5296.desc.fcb
+generated\worlds\fc6_main\levels\c1\worldsectors\sector5296.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5297.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5297.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5298.desc.fcb
@@ -14055,6 +14077,7 @@ generated\worlds\fc6_main\levels\c1\worldsectors\sector5310.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5311.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5311.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5456.desc.fcb
+generated\worlds\fc6_main\levels\c1\worldsectors\sector5456.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5457.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5457.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector5458.desc.fcb
@@ -14425,6 +14448,7 @@ generated\worlds\fc6_main\levels\c1\worldsectors\sector7383.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7384.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7385.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7386.desc.fcb
+generated\worlds\fc6_main\levels\c1\worldsectors\sector7386.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7387.desc.fcb
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7387.wsecbdl
 generated\worlds\fc6_main\levels\c1\worldsectors\sector7388.desc.fcb
@@ -18699,9 +18723,12 @@ graphics\_common\characters\fc5\animals\anml_cattle_basic\_textures\anml_cattle_
 graphics\_common\characters\fc5\animals\anml_cattle_basic\_textures\anml_cattle_basic_beef\anml_cattle_basic_beef_n.xbt
 graphics\_common\characters\fc5\animals\anml_cattle_basic\_textures\anml_cattle_basic_beef\anml_cattle_basic_beef_n_mips.xbt
 graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_b.xbt
+graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_b_mips.xbt
 graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_c.xbt
 graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_m.xbt
+graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_m_mips.xbt
 graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_n.xbt
+graphics\_common\characters\fc5\animals\anml_goat_basic\_textures\anml_goat_basic_domestic\anml_goat_basic_domestic_n_mips.xbt
 graphics\_common\characters\fc5\animals\anml_pig_basic\_textures\anml_pig_basic_domestic\anml_pig_basic_domestic_new_b.xbt
 graphics\_common\characters\fc5\animals\anml_pig_basic\_textures\anml_pig_basic_domestic\anml_pig_basic_domestic_new_b_mips.xbt
 graphics\_common\characters\fc5\animals\anml_pig_basic\_textures\anml_pig_basic_domestic\anml_pig_basic_domestic_new_c.xbt
@@ -19175,6 +19202,9 @@ graphics\_common\characters\fc6\animals\anml_fish_150cm_a\_textures\anml_fish_15
 graphics\_common\characters\fc6\animals\anml_fish_150cm_a\_textures\anml_fish_150cm_a_gar\anml_fish_150cm_a_gar_n_mips.xbt
 graphics\_common\characters\fc6\animals\anml_fish_150cm_a\anml_fish_150cm_a_ragdoll.hkx
 graphics\_common\characters\fc6\animals\anml_fish_150cm_a\anml_fish_150cm_a_raycast.hkx
+graphics\_common\characters\fc6\animals\anml_fish_20cm_a\_textures\anml_fish_20cm_a_smelt_rainbow\anml_fish_20cm_a_smelt_rainbow_b.xbt
+graphics\_common\characters\fc6\animals\anml_fish_20cm_a\_textures\anml_fish_20cm_a_smelt_rainbow\anml_fish_20cm_a_smelt_rainbow_c.xbt
+graphics\_common\characters\fc6\animals\anml_fish_20cm_a\_textures\anml_fish_20cm_a_smelt_rainbow\anml_fish_20cm_a_smelt_rainbow_n.xbt
 graphics\_common\characters\fc6\animals\anml_fish_250cm_shark\_textures\anml_fc6_fish_250cm_shark_bull_caribbean\anml_fc6_fish_250cm_shark_bull_caribbean_b.xbt
 graphics\_common\characters\fc6\animals\anml_fish_250cm_shark\_textures\anml_fc6_fish_250cm_shark_bull_caribbean\anml_fc6_fish_250cm_shark_bull_caribbean_b_mips.xbt
 graphics\_common\characters\fc6\animals\anml_fish_250cm_shark\_textures\anml_fc6_fish_250cm_shark_bull_caribbean\anml_fc6_fish_250cm_shark_bull_caribbean_c.xbt
@@ -19394,6 +19424,8 @@ graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char103_0
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char103_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char103_01_m_sm.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char103_01_m_sm_mips.xbt
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char119_01_m_mm.xbt
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char119_01_m_mm_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char402_01_f_tat.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_uni_char402_01_f_tat_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_skn_shr_base_01_u_n.xbt
@@ -19773,6 +19805,12 @@ graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char105_0
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char105_01_m_wn1_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char105_01_m_wn2.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char105_01_m_wn2_mips.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_b.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_b_mips.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_n.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_n_mips.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_sm.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char119_01_m_sm_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char204_01_m_sm.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char204_01_m_sm_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_uni_char303_01_m_sm.xbt
@@ -19833,8 +19871,11 @@ graphics\_common\characters\fct\human\_dna\enemies\lvl1\fct_dna_ene_sniperlvl1_0
 graphics\_common\characters\fct\human\_dna\enemies\lvl1\fct_dna_ene_sniperlvl1_03_m.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_01_f.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_01_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_02_f.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_02_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_03_f.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_03_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_04_f.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_04_m.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_05_m.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_06_f.item.bwsk
@@ -19845,6 +19886,11 @@ graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_09_m.it
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_10a_m.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_14_f.item.bwsk
 graphics\_common\characters\fct\human\_dna\guerillas\fct_dna_gue_average_18_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\outcasts\fct_dna_out_average_02_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\outcasts\fct_dna_out_average_05_m.item.bwsk
+graphics\_common\characters\fct\human\_dna\uniques\fct_dna_uni_char107.item.bwsk
+graphics\_common\characters\fct\human\_dna\uniques\fct_dna_uni_char116.item.bwsk
+graphics\_common\characters\fct\human\_dna\uniques\fct_dna_uni_char138.item.bwsk
 graphics\_common\characters\fct\human\_patternlibrary\chck_checker07_p.xbt
 graphics\_common\characters\fct\human\_patternlibrary\chck_checker23_p.xbt
 graphics\_common\characters\fct\human\_patternlibrary\chck_checker26_p.xbt
@@ -20354,6 +20400,13 @@ graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char105_01_m_
 graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char105_01_m_mat_dm_mips.xbt
 graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char105_01_m_mat_n.xbt
 graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char105_01_m_mat_n_mips.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_b.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_b_mips.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_dm.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_dm_mips.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_id.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_n.xbt
+graphics\_common\characters\fct\human\bottom\_textures\fct_bot_uni_char119_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\bottomaccessory\_textures\fct_bota_ene_berserker_01_u_b.xbt
 graphics\_common\characters\fct\human\bottomaccessory\_textures\fct_bota_ene_berserker_01_u_dm.xbt
 graphics\_common\characters\fct\human\bottomaccessory\_textures\fct_bota_ene_berserker_01_u_dm_mips.xbt
@@ -20785,6 +20838,11 @@ graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_scrunchie_0
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_scrunchie_01_f_dm_mips.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_scrunchie_01_f_n.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_scrunchie_01_f_n_mips.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_u_hat_01_b.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_u_hat_01_m.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_u_hat_01_m_mips.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_u_hat_01_n.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_civ_u_hat_01_n_mips.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_beret_01_u_dm.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_beret_01_u_dm_mips.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_beret_01_u_n.xbt
@@ -20799,6 +20857,10 @@ graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_flamerglass
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_flamerglass_02_u_b_mips.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_flamerglass_02_u_n.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_flamerglass_02_u_n_mips.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_fumigatorhat_01_u_dm.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_fumigatorhat_01_u_dm_mips.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_fumigatorhat_01_u_n.xbt
+graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_fumigatorhat_01_u_n_mips.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_heavy_01_u_b.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_heavy_01_u_dm.xbt
 graphics\_common\characters\fct\human\headgear\_textures\fct_hdg_ene_heavy_01_u_dm_mips.xbt
@@ -21973,6 +22035,13 @@ graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char105_01_m_mat
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char105_01_m_mat_dm_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char105_01_m_mat_n.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char105_01_m_mat_n_mips.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_b.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_b_mips.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_dm.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_dm_mips.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_id.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_n.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char119_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char308_01_m_b.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char308_01_m_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_uni_char308_01_m_dm.xbt
@@ -23658,6 +23727,7 @@ graphics\_materials\cbonilla-m-20200109105737.material.bin
 graphics\_materials\cbonilla-m-20200109105928.material.bin
 graphics\_materials\cbonilla-m-20200109111242.material.bin
 graphics\_materials\cbonilla-m-20200109153613.material.bin
+graphics\_materials\cbonilla-m-20200130131315.material.bin
 graphics\_materials\cbonilla-m-20200220111414.material.bin
 graphics\_materials\cbonilla-m-20200220132752.material.bin
 graphics\_materials\cbonilla-m-20200220133145.material.bin
@@ -24066,7 +24136,9 @@ graphics\_materials\chermosilla-m-20200617145112.material.bin
 graphics\_materials\chermosilla-m-20200618174922.material.bin
 graphics\_materials\chermosilla-m-20200623105441.material.bin
 graphics\_materials\chermosilla-m-20200630155936.material.bin
+graphics\_materials\chermosilla-m-20200630161746.material.bin
 graphics\_materials\chermosilla-m-20200630163714.material.bin
+graphics\_materials\chermosilla-m-20200630165030.material.bin
 graphics\_materials\chermosilla-m-20200630165048.material.bin
 graphics\_materials\chermosilla-m-20200701215537.material.bin
 graphics\_materials\chermosilla-m-20200701222813.material.bin
@@ -24308,6 +24380,7 @@ graphics\_materials\cmimeault-m-20171106144916.material.bin
 graphics\_materials\cmimeault-m-20171107151611.material.bin
 graphics\_materials\cqqiu-m-20190814182350.material.bin
 graphics\_materials\cqqiu-m-20191203173939.material.bin
+graphics\_materials\cqqiu-m-20191203174034.material.bin
 graphics\_materials\cqqiu-m-20191203174350.material.bin
 graphics\_materials\cqqiu-m-20191217191137.material.bin
 graphics\_materials\cqqiu-m-20200106181543.material.bin
@@ -24462,6 +24535,10 @@ graphics\_materials\cynthiaalvarez-m-20200312152429.material.bin
 graphics\_materials\cynthiaalvarez-m-20200313101020.material.bin
 graphics\_materials\cynthiaalvarez-m-20200501011120.material.bin
 graphics\_materials\cynthiaalvarez-m-20200520222320.material.bin
+graphics\_materials\cynthiaalvarez-m-20200602154726.material.bin
+graphics\_materials\cynthiaalvarez-m-20200602174308.material.bin
+graphics\_materials\cynthiaalvarez-m-20200602204715.material.bin
+graphics\_materials\cynthiaalvarez-m-20200604190233.material.bin
 graphics\_materials\cynthiaalvarez-m-20200609172612.material.bin
 graphics\_materials\czhihong-m-20160809163943.material.bin
 graphics\_materials\czhihong-m-20160811153937.material.bin
@@ -25075,6 +25152,8 @@ graphics\_materials\dbedefazekas-m-20190404143437.material.bin
 graphics\_materials\dbedefazekas-m-20190404143635.material.bin
 graphics\_materials\dbedefazekas-m-20190404143911.material.bin
 graphics\_materials\dbedefazekas-m-20190417152229.material.bin
+graphics\_materials\dbedefazekas-m-20190521105638.material.bin
+graphics\_materials\dbedefazekas-m-20190521111642.material.bin
 graphics\_materials\dbedefazekas-m-20190711140832.material.bin
 graphics\_materials\dbedefazekas-m-20190715135736.material.bin
 graphics\_materials\dbedefazekas-m-20190715151945.material.bin
@@ -25376,6 +25455,7 @@ graphics\_materials\dcandroveanu-m-20161219152548.material.bin
 graphics\_materials\dcandroveanu-m-20170531143907.material.bin
 graphics\_materials\dcandroveanu-m-20180815173028.material.bin
 graphics\_materials\dcarter-m-20160817155930.material.bin
+graphics\_materials\dcarter-m-20171025151432.material.bin
 graphics\_materials\dcarter-m-20171025152346.material.bin
 graphics\_materials\dcarter-m-20171026114249.material.bin
 graphics\_materials\dcarter-m-20171026133636.material.bin
@@ -26320,6 +26400,7 @@ graphics\_materials\edchan-m-20210212150127.material.bin
 graphics\_materials\edchan-m-20210212150142.material.bin
 graphics\_materials\edchan-m-20210212150151.material.bin
 graphics\_materials\edchan-m-20210212150239.material.bin
+graphics\_materials\edchan-m-20210212151121.material.bin
 graphics\_materials\edchan-m-20210218083904.material.bin
 graphics\_materials\edchan-m-20210218084955.material.bin
 graphics\_materials\edchan-m-20210218085530.material.bin
@@ -26955,6 +27036,7 @@ graphics\_materials\fmouraux-m-20190705140101.material.bin
 graphics\_materials\fmouraux-m-20190819161354.material.bin
 graphics\_materials\freginensi-m-20190308112610.material.bin
 graphics\_materials\freginensi-m-20190426121821.material.bin
+graphics\_materials\freginensi-m-20190426123426.material.bin
 graphics\_materials\fvallar-m-20190625103745.material.bin
 graphics\_materials\fvallar-m-20190625103813.material.bin
 graphics\_materials\fvallar-m-20190625104505.material.bin
@@ -28308,6 +28390,8 @@ graphics\_materials\jbatt-m-20191003134808.material.bin
 graphics\_materials\jbatt-m-20191003172318.material.bin
 graphics\_materials\jbatt-m-20191003174127.material.bin
 graphics\_materials\jbatt-m-20191004102624.material.bin
+graphics\_materials\jbatt-m-20191007160527.material.bin
+graphics\_materials\jbatt-m-20191008110800.material.bin
 graphics\_materials\jbatt-m-20191206142641.material.bin
 graphics\_materials\jbatt-m-20191212133059.material.bin
 graphics\_materials\jbatt-m-20191212133123.material.bin
@@ -28979,6 +29063,7 @@ graphics\_materials\jmarcoux-m-20191029153449.material.bin
 graphics\_materials\jmarcoux-m-20191120091241.material.bin
 graphics\_materials\jmarcoux-m-20191120092331.material.bin
 graphics\_materials\jmarcoux-m-20200304120824136.material.bin
+graphics\_materials\jmarcoux-m-20200715175952099.material.bin
 graphics\_materials\jmarcoux-m-20201021085925.material.bin
 graphics\_materials\jmarcoux-m-20201022134954.material.bin
 graphics\_materials\jmarcoux-m-20201022135115.material.bin
@@ -29489,6 +29574,8 @@ graphics\_materials\josehernandez-m-20200407155322.material.bin
 graphics\_materials\josehernandez-m-20200408174125.material.bin
 graphics\_materials\josehernandez-m-20200413195156.material.bin
 graphics\_materials\josehernandez-m-20200413195446.material.bin
+graphics\_materials\josehernandez-m-20200413212539.material.bin
+graphics\_materials\josehernandez-m-20200413213834.material.bin
 graphics\_materials\josehernandez-m-20200414181658.material.bin
 graphics\_materials\josehernandez-m-20200418110557.material.bin
 graphics\_materials\josehernandez-m-20200420205809.material.bin
@@ -29557,6 +29644,8 @@ graphics\_materials\jphillips-m-20200327122925.material.bin
 graphics\_materials\jphillips-m-20200327152831.material.bin
 graphics\_materials\jphillips-m-20200327163751.material.bin
 graphics\_materials\jphillips-m-20200327171424.material.bin
+graphics\_materials\jphillips-m-20200327171540.material.bin
+graphics\_materials\jphillips-m-20200328141227.material.bin
 graphics\_materials\jphillips-m-20200330082321.material.bin
 graphics\_materials\jphillips-m-20200330101047.material.bin
 graphics\_materials\jphillips-m-20200330103109.material.bin
@@ -29780,6 +29869,8 @@ graphics\_materials\jslapointe-m-20200302143354.material.bin
 graphics\_materials\jslapointe-m-20200304150641.material.bin
 graphics\_materials\jslapointe-m-20200309094547.material.bin
 graphics\_materials\jslapointe-m-20200311172547.material.bin
+graphics\_materials\jslapointe-m-20200327092453683.material.bin
+graphics\_materials\jslapointe-m-20200327092453819.material.bin
 graphics\_materials\jslapointe-m-20200327134630.material.bin
 graphics\_materials\jslapointe-m-20200327134743.material.bin
 graphics\_materials\jslapointe-m-20200406095420.material.bin
@@ -30512,6 +30603,7 @@ graphics\_materials\lfarmer-m-20200928134706.material.bin
 graphics\_materials\lfarmer-m-20200930140245.material.bin
 graphics\_materials\lfarmer-m-20200930222605.material.bin
 graphics\_materials\lflood-m-20170113160408.material.bin
+graphics\_materials\lflood-m-20170119162859.material.bin
 graphics\_materials\lflood-m-20170119170514.material.bin
 graphics\_materials\lflood-m-20170119191241.material.bin
 graphics\_materials\lflood-m-20170125134913.material.bin
@@ -31451,14 +31543,19 @@ graphics\_materials\mbarrettara-m-20190610175459.material.bin
 graphics\_materials\mbarrettara-m-20190826114758.material.bin
 graphics\_materials\mbarrettara-m-20190924113427.material.bin
 graphics\_materials\mbarrettara-m-20191017165828.material.bin
+graphics\_materials\mbarrettara-m-20191018170651.material.bin
 graphics\_materials\mbarrettara-m-20191030155150.material.bin
+graphics\_materials\mbarrettara-m-20191104161959.material.bin
 graphics\_materials\mbarrettara-m-20191104163645.material.bin
+graphics\_materials\mbarrettara-m-20191104171055.material.bin
+graphics\_materials\mbarrettara-m-20191106132257.material.bin
 graphics\_materials\mbarrettara-m-20191107165604.material.bin
 graphics\_materials\mbarrettara-m-20191115135720.material.bin
 graphics\_materials\mbarrettara-m-20191118153433.material.bin
 graphics\_materials\mbarrettara-m-20191119110607.material.bin
 graphics\_materials\mbarrettara-m-20191119164435.material.bin
 graphics\_materials\mbarrettara-m-20191120131614.material.bin
+graphics\_materials\mbarrettara-m-20200106151607.material.bin
 graphics\_materials\mbarrettara-m-20200106152519.material.bin
 graphics\_materials\mbarrettara-m-20200110133812.material.bin
 graphics\_materials\mbarrettara-m-20200117113424.material.bin
@@ -31472,6 +31569,7 @@ graphics\_materials\mbarrettara-m-20200504145915.material.bin
 graphics\_materials\mbarrettara-m-20200512113833.material.bin
 graphics\_materials\mbarrettara-m-20200512155217.material.bin
 graphics\_materials\mbarrettara-m-20200513152310.material.bin
+graphics\_materials\mbarrettara-m-20200514155727.material.bin
 graphics\_materials\mbarrettara-m-20200618142926.material.bin
 graphics\_materials\mbarrettara-m-20200619111141.material.bin
 graphics\_materials\mbarrettara-m-20200630104259.material.bin
@@ -31682,6 +31780,8 @@ graphics\_materials\mgoulet2-m-20200925122448.material.bin
 graphics\_materials\mgoulet2-m-20210226100951.material.bin
 graphics\_materials\mgoulet2-m-20210315114322.material.bin
 graphics\_materials\mgoulet2-m-20210318142054.material.bin
+graphics\_materials\mgoulet2-m-20210426150504.material.bin
+graphics\_materials\mgoulet2-m-20210426151746.material.bin
 graphics\_materials\mkang-m-20180328100939.material.bin
 graphics\_materials\mkang-m-20180328102900.material.bin
 graphics\_materials\mkang-m-20180328110413.material.bin
@@ -33708,6 +33808,7 @@ graphics\_materials\sfabok-m-20180208092946.material.bin
 graphics\_materials\sfabok-m-20180222154317.material.bin
 graphics\_materials\sfabok-m-20180329095020.material.bin
 graphics\_materials\sfabok-m-20180329130725.material.bin
+graphics\_materials\sfabok-m-20180719095817.material.bin
 graphics\_materials\sfabok-m-20181105100934.material.bin
 graphics\_materials\sfabok-m-20190118143354.material.bin
 graphics\_materials\sfabok-m-20190122080143.material.bin
@@ -33733,7 +33834,12 @@ graphics\_materials\sfabok-m-20190503140546.material.bin
 graphics\_materials\sfabok-m-20190503141053.material.bin
 graphics\_materials\sfabok-m-20190509083703.material.bin
 graphics\_materials\sfabok-m-20190625064824.material.bin
+graphics\_materials\sfabok-m-20190625124142.material.bin
+graphics\_materials\sfabok-m-20190625124302.material.bin
+graphics\_materials\sfabok-m-20190625124638.material.bin
 graphics\_materials\sfabok-m-20190712131022.material.bin
+graphics\_materials\sfabok-m-20190729133447.material.bin
+graphics\_materials\sfabok-m-20190729152259.material.bin
 graphics\_materials\sfabok-m-20191021080500.material.bin
 graphics\_materials\sfabok-m-20191021081437.material.bin
 graphics\_materials\sfabok-m-20191210151904.material.bin
@@ -34673,6 +34779,9 @@ graphics\_materials\wxinyu-m-20200709151016.material.bin
 graphics\_materials\wxinyu-m-20200715112125.material.bin
 graphics\_materials\wxinyu-m-20200716145542.material.bin
 graphics\_materials\wxinyu-m-20200722144740.material.bin
+graphics\_materials\wxinyu-m-20200722172554.material.bin
+graphics\_materials\wxinyu-m-20200805150350.material.bin
+graphics\_materials\wxinyu-m-20200813135637.material.bin
 graphics\_materials\wxye-m-20181119194239.material.bin
 graphics\_materials\wxye-m-20181121191109.material.bin
 graphics\_materials\wxye-m-20181206154951.material.bin
@@ -34725,11 +34834,13 @@ graphics\_materials\xchen3-m-20170622151827.material.bin
 graphics\_materials\xchen3-m-20170622170221.material.bin
 graphics\_materials\xchen3-m-20170623184152.material.bin
 graphics\_materials\xfchen2-m-20171228101502.material.bin
+graphics\_materials\xiao-tingxu-m-20160808171953.material.bin
 graphics\_materials\xiao-tingxu-m-20160811151758.material.bin
 graphics\_materials\xiao-tingxu-m-20160816133445.material.bin
 graphics\_materials\xiao-tingxu-m-20160819164738.material.bin
 graphics\_materials\xiao-tingxu-m-20161102110156.material.bin
 graphics\_materials\xiao-tingxu-m-20161118170806.material.bin
+graphics\_materials\xiao-tingxu-m-20161229183926.material.bin
 graphics\_materials\xiao-tingxu-m-20170215164607.material.bin
 graphics\_materials\xiao-tingxu-m-20170510180901.material.bin
 graphics\_materials\xiao-tingxu-m-20170928142213.material.bin
@@ -34750,6 +34861,7 @@ graphics\_materials\xiao-tingxu-m-20200813191821.material.bin
 graphics\_materials\xiaotingxu-m-324201666493268.material.bin
 graphics\_materials\xiaotingxu-m-34201653449944.material.bin
 graphics\_materials\xiaotingxu-m-620201671001328.material.bin
+graphics\_materials\xiaotingxu-m-727201661631122.material.bin
 graphics\_materials\xlin2-m-20190214142943.material.bin
 graphics\_materials\xlin2-m-20190301180322.material.bin
 graphics\_materials\xlin2-m-20190312170230.material.bin
@@ -36677,6 +36789,8 @@ graphics\patterns\cloth_stripe_triple_m_mips.xbt
 graphics\patterns\cott_jeans02_p.xbt
 graphics\patterns\dec_adonis01.xbt
 graphics\patterns\dec_adonis01_mips.xbt
+graphics\patterns\decal_hardrocklegend.xbt
+graphics\patterns\decal_hardrocklegend_mips.xbt
 graphics\patterns\decal_star.xbt
 graphics\patterns\decal_sunrise.xbt
 graphics\patterns\decal_sunrise_mips.xbt
@@ -36825,6 +36939,7 @@ graphics\sky\clouds\weathermap.xbt
 graphics\stp\_textures\barrel_poison_liquid_small_01\barrel_poison_liquid_small_01_um.xbt
 graphics\stp\_textures\baseball_01\baseball_01_b.xbt
 graphics\stp\_textures\baseball_01\baseball_01_n.xbt
+graphics\stp\_textures\baseball_bat_01\baseball_bat_01_um.xbt
 graphics\stp\_textures\basket_wicker_02_halffullseedling\basket_wicker_02_halffullseedling_um.xbt
 graphics\stp\_textures\blowtorch_02\blowtorch_02_um.xbt
 graphics\stp\_textures\cigarette_01\cigarette_01_b.xbt
@@ -37406,6 +37521,11 @@ graphics\weapons\_textures\attachments\charms\egyptiangoldenpendant\wpn_att_char
 graphics\weapons\_textures\attachments\charms\egyptiangoldenpendant\wpn_att_charm_egyptiangoldenpendant_n.xbt
 graphics\weapons\_textures\attachments\charms\egyptiangoldenpendant\wpn_att_charm_egyptiangoldenpendant_n_mips.xbt
 graphics\weapons\_textures\attachments\charms\egyptiangoldenpendant\wpn_att_charm_egyptiangoldenpendant_um.xbt
+graphics\weapons\_textures\attachments\charms\fishbait\wpn_att_charm_fishbait_b.xbt
+graphics\weapons\_textures\attachments\charms\fishbait\wpn_att_charm_fishbait_mat.xbt
+graphics\weapons\_textures\attachments\charms\fishbait\wpn_att_charm_fishbait_n.xbt
+graphics\weapons\_textures\attachments\charms\fishbait\wpn_att_charm_fishbait_n_mips.xbt
+graphics\weapons\_textures\attachments\charms\fishbait\wpn_att_charm_fishbait_um.xbt
 graphics\weapons\_textures\attachments\charms\fishing bobber\wpn_att_charm_fishingbobber_b.xbt
 graphics\weapons\_textures\attachments\charms\fishing bobber\wpn_att_charm_fishingbobber_mat.xbt
 graphics\weapons\_textures\attachments\charms\fishing bobber\wpn_att_charm_fishingbobber_n.xbt
@@ -39349,6 +39469,10 @@ graphics\weapons\_textures\personalweapons\throwables\throwingknife\wpn_throwing
 graphics\weapons\_textures\personalweapons\throwables\throwingknife\wpn_throwingknife_ns.xbt
 graphics\weapons\_textures\personalweapons\throwables\throwingknife\wpn_throwingknife_ns_mips.xbt
 graphics\weapons\_textures\personalweapons\throwables\throwingknife\wpn_throwingknife_um.xbt
+graphics\weapons\_textures\personalweapons\throwables\wpn_bait\wpn_bait_al.xbt
+graphics\weapons\_textures\personalweapons\throwables\wpn_bait\wpn_bait_ns.xbt
+graphics\weapons\_textures\personalweapons\throwables\wpn_bait\wpn_bait_ns_mips.xbt
+graphics\weapons\_textures\personalweapons\throwables\wpn_bait\wpn_bait_um.xbt
 graphics\weapons\_textures\personalweapons\throwables\wpn_dynamite_al.xbt
 graphics\weapons\_textures\personalweapons\throwables\wpn_dynamite_al_mips.xbt
 graphics\weapons\_textures\personalweapons\throwables\wpn_dynamite_mt.xbt
@@ -40502,6 +40626,7 @@ graphics\world\_textures\manmadespecific\objects\commercial\furniture\chair_offi
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\chair_rattan_01\chair_rattan_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\chair_rattan_stack_01\chair_rattan_stack_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\desk_metal_01\desk_metal_01_m.xbt
+graphics\world\_textures\manmadespecific\objects\commercial\furniture\desk_school_03\desk_school_03_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\filingcabinet_small_01\filingcabinet_small_01_m.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\fillingcabinet_tall_01\filingcabinet_tall_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\shelf_barber_01_small\shelf_barber_01_small_um.xbt
@@ -42682,6 +42807,7 @@ newparticles\27029929242481048.part
 newparticles\27029929242489443.part
 newparticles\27029931005175478.part
 newparticles\27029931005462862.part
+newparticles\27029933568023422.part
 newparticles\27029937177262328.part
 newparticles\27029937837512160.part
 newparticles\27029941145944178.part
@@ -43588,6 +43714,7 @@ newparticles\9015405105093029.part
 newparticles\9015405382671823.part
 newparticles\9015405386122694.part
 newparticles\9015405390609433.part
+newparticles\9015405405496741.part
 newparticles\9015405530386820.part
 newparticles\9015406312531357.part
 newparticles\9015406457838894.part
@@ -44077,6 +44204,7 @@ soundbinary\1087250684.bnk
 soundbinary\1087646500.bnk
 soundbinary\109269535.wem
 soundbinary\109819738.bnk
+soundbinary\109864802.wem
 soundbinary\1099784170.bnk
 soundbinary\1105281347.bnk
 soundbinary\1108042612.bnk
@@ -44123,12 +44251,14 @@ soundbinary\1256916438.bnk
 soundbinary\126726773.wem
 soundbinary\1267683305.bnk
 soundbinary\1270226478.bnk
+soundbinary\127100744.wem
 soundbinary\1275061366.bnk
 soundbinary\1277175724.bnk
 soundbinary\128068191.bnk
 soundbinary\1280733108.bnk
 soundbinary\1281569836.bnk
 soundbinary\1288366091.bnk
+soundbinary\128988950.wem
 soundbinary\1294260506.bnk
 soundbinary\1294827981.bnk
 soundbinary\1303205451.bnk
@@ -44169,6 +44299,7 @@ soundbinary\1433226035.bnk
 soundbinary\1435601488.bnk
 soundbinary\144075936.wem
 soundbinary\144335607.bnk
+soundbinary\144974411.wem
 soundbinary\1450401701.bnk
 soundbinary\1457601563.bnk
 soundbinary\146319152.bnk
@@ -44634,6 +44765,7 @@ soundbinary\3041509764.bnk
 soundbinary\3045778862.bnk
 soundbinary\3045789628.bnk
 soundbinary\304798305.wem
+soundbinary\305070300.wem
 soundbinary\3051317084.bnk
 soundbinary\3052176440.bnk
 soundbinary\3052815654.bnk
@@ -44913,6 +45045,7 @@ soundbinary\3879694096.bnk
 soundbinary\388117733.bnk
 soundbinary\3882633542.bnk
 soundbinary\3885772234.bnk
+soundbinary\3888520493.bnk
 soundbinary\389219701.bnk
 soundbinary\3892686529.bnk
 soundbinary\3899012256.bnk
@@ -45017,6 +45150,7 @@ soundbinary\4222968756.bnk
 soundbinary\422307530.wem
 soundbinary\4223653026.bnk
 soundbinary\4226126268.bnk
+soundbinary\423250437.wem
 soundbinary\423411094.bnk
 soundbinary\4235084119.bnk
 soundbinary\4237733209.bnk
@@ -45048,6 +45182,7 @@ soundbinary\459083782.wem
 soundbinary\460617692.wem
 soundbinary\462757241.bnk
 soundbinary\46534435.bnk
+soundbinary\470538895.wem
 soundbinary\471544492.bnk
 soundbinary\471778531.wem
 soundbinary\476374216.bnk
@@ -45072,6 +45207,7 @@ soundbinary\507449241.bnk
 soundbinary\510756167.wem
 soundbinary\511515986.wem
 soundbinary\512263836.wem
+soundbinary\516626122.wem
 soundbinary\518567956.wem
 soundbinary\526726895.wem
 soundbinary\532357452.wem
@@ -45128,6 +45264,7 @@ soundbinary\630406312.bnk
 soundbinary\630840212.wem
 soundbinary\631146721.wem
 soundbinary\63187735.wem
+soundbinary\632828600.wem
 soundbinary\633118803.wem
 soundbinary\634396060.wem
 soundbinary\636761151.wem
@@ -45148,6 +45285,7 @@ soundbinary\65671465.wem
 soundbinary\65938221.bnk
 soundbinary\659984912.bnk
 soundbinary\660161364.wem
+soundbinary\661699386.wem
 soundbinary\66539525.wem
 soundbinary\665721378.wem
 soundbinary\665980907.wem
@@ -45190,6 +45328,7 @@ soundbinary\724925438.bnk
 soundbinary\726950264.bnk
 soundbinary\729608482.bnk
 soundbinary\731009108.wem
+soundbinary\732288968.wem
 soundbinary\732712205.wem
 soundbinary\734194514.wem
 soundbinary\73476933.bnk
@@ -45230,6 +45369,7 @@ soundbinary\791127421.wem
 soundbinary\793590513.wem
 soundbinary\796749475.wem
 soundbinary\797689412.bnk
+soundbinary\801443614.wem
 soundbinary\801796650.bnk
 soundbinary\802337859.wem
 soundbinary\803398420.wem
@@ -45243,6 +45383,7 @@ soundbinary\812415582.bnk
 soundbinary\818319031.bnk
 soundbinary\819748115.wem
 soundbinary\820867376.wem
+soundbinary\822282206.wem
 soundbinary\825261339.wem
 soundbinary\825501795.wem
 soundbinary\826640040.wem
@@ -45286,6 +45427,7 @@ soundbinary\873869939.bnk
 soundbinary\873928874.bnk
 soundbinary\876164626.bnk
 soundbinary\877363958.bnk
+soundbinary\878265153.wem
 soundbinary\884095535.wem
 soundbinary\886085007.bnk
 soundbinary\886286022.wem
@@ -45332,6 +45474,7 @@ soundbinary\952557161.wem
 soundbinary\954908931.bnk
 soundbinary\957781242.wem
 soundbinary\957915347.wem
+soundbinary\958783760.wem
 soundbinary\959359599.bnk
 soundbinary\964268028.bnk
 soundbinary\967091003.wem
@@ -45634,6 +45777,7 @@ ui\tetra\textures\1newui\menus\frontend\matchmaking\tx_matchmaking_featureicon.x
 ui\tetra\textures\1newui\menus\frontend\matchmaking\tx_matchmaking_maplarge_none.xbt
 ui\tetra\textures\1newui\menus\frontend\matchmaking\tx_matchmaking_partnericon.xbt
 ui\tetra\textures\1newui\menus\frontend\matchmaking\tx_specopsrankplus.xbt
+ui\tetra\textures\1newui\menus\frontend\settings\tx_menu_colorblind_option_arrow.xbt
 ui\tetra\textures\1newui\menus\frontend\titlescreen\tx_fc6_logo_4k.xbt
 ui\tetra\textures\1newui\menus\ingame\gamemessagebox\tx_msg_bottomline.xbt
 ui\tetra\textures\1newui\menus\ingame\gamemessagebox\tx_msg_topline.xbt
@@ -45794,6 +45938,7 @@ ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key_chemicalweapo
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key01.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key02.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key03.xbt
+ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key04.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key05.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key06.xbt
 ui\tetra\textures\1newui\x_icons\collection\keys\tx_collection_key07.xbt
@@ -45834,22 +45979,27 @@ ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_07.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_invalid.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_livecurrency.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_pesos.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_apexcoyotemeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_boarmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_damagedfish.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_damagedmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_duckmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_durableplastic.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_durableseals.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_frenchgruntmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_gasolina.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_hardcurrency.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_hutiameat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_industrialcircuits.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_industrialcomposite.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_legendaryboarmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_medicine.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_metal.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_permitmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_rabbitmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_recycledfasteners.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_recycledglass.xbt
+ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_tarponmeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_yarancrocodilemeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\small\tx_resources_iconsmall_depleteduranium.xbt
 ui\tetra\textures\1newui\x_icons\resources\small\tx_resources_iconsmall_gasolina.xbt
@@ -45915,6 +46065,7 @@ ui\tetra\textures\gge_icons\tx_gge_icon_large_stamina_recovery_rate.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_large_weapon_sway.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_animal_armour.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_explosion_armour.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_medium_fire_armour.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_fmj_armour.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_hollow_point_armour.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_medium_noise_reduction.xbt
@@ -46158,9 +46309,12 @@ ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\checkmark_small.
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_anti-air_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_convoy_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_defend_people_l.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_inteliligence_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_jail_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_kill_l.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_military_factory_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_rescue_l.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_ship_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\folder_icons\large\tetra_gc_folder_img_weapon_l.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\mision_fail_sccribble_reward.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\mission\mision_success_sccribble_reward.xbt
@@ -47453,6 +47607,8 @@ ui\zeta\phoenix\sources\widgets\currentobjectivetext_89e25a0d-a6d5-4494-9ad5-1e4
 ui\zeta\phoenix\sources\widgets\currentprovincewidget_951f303d-3ece-4ea9-b52b-2c40011ecad9.spx
 ui\zeta\phoenix\sources\widgets\currentrank_9edada82-fa16-4b33-b245-b47bf288c110.spx
 ui\zeta\phoenix\sources\widgets\cursorwidget_c13fc572-46e1-4273-be52-a9c7f5659a56.spx
+ui\zeta\phoenix\sources\widgets\customcolorblind_colorgrid_ea4fd63f-68be-43c9-adcb-f5cc7bcbd029.spx
+ui\zeta\phoenix\sources\widgets\customcolorblind_coloritem_68babfef-3bbf-4dfb-82c3-7f03ef1ee0cc.spx
 ui\zeta\phoenix\sources\widgets\customizationcharm_1f9aed1f-c6eb-420c-ade5-81c4c155242f.spx
 ui\zeta\phoenix\sources\widgets\customizationcharmgrid_311641e1-dfbe-4342-8cc8-308e62684830.spx
 ui\zeta\phoenix\sources\widgets\customizationgrid_97567837-56f4-45d8-95c2-b1e598a0a14d.spx
@@ -49429,6 +49585,7 @@ worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0023_0045.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0023_0046.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0023_0047.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0023_0048.terrainnode.bdl
+worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0023_0049.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0024_0017.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0024_0018.terrainnode.bdl
 worlds\fc6_main\terrain\quadtree\bundles\0008_0000_0024_0019.terrainnode.bdl
