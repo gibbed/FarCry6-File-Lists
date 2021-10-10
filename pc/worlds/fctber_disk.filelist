@@ -1,9 +1,11 @@
-; 23338/66056 (35%)
+; 23374/66056 (35%)
 animations\ai\pose\ai_death_pose_indoctrinee01.mab
 animations\ai\pose\ai_death_pose_indoctrinee02.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
+animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
 animations\assaults\t_rex_animatronic\t_rex_animatronic_looking_01.mab
+animations\assaults\t_rex_animatronic\t_rex_animatronic_looking_01.markup.bin
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_bink_shot_d_soldierface_v002.dpax
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_binkextension_v02.animtrackcol
 animations\cinematics\assaults\aslt02\aslt02_brief\aslt02_brief_cam_v02.animtrackcol
@@ -12537,6 +12539,7 @@ graphics\_materials\cbonilla-m-20190909085748.material.bin
 graphics\_materials\cbonilla-m-20191001113918.material.bin
 graphics\_materials\cbonilla-m-20191001115901.material.bin
 graphics\_materials\cbonilla-m-20191001162443.material.bin
+graphics\_materials\cbonilla-m-20191029131851.material.bin
 graphics\_materials\cbonilla-m-20191216093935.material.bin
 graphics\_materials\cbonilla-m-20191216103100.material.bin
 graphics\_materials\cbonilla-m-20191216113747.material.bin
@@ -12623,6 +12626,7 @@ graphics\_materials\chermosilla-m-20200728191410.material.bin
 graphics\_materials\chermosilla-m-20200729140515.material.bin
 graphics\_materials\chermosilla-m-20200729170350.material.bin
 graphics\_materials\chermosilla-m-20200804101121.material.bin
+graphics\_materials\chermosilla-m-20200804152917.material.bin
 graphics\_materials\chermosilla-m-20200806205504.material.bin
 graphics\_materials\chermosilla-m-20200806205508.material.bin
 graphics\_materials\chermosilla-m-20200806205514.material.bin
@@ -12745,6 +12749,7 @@ graphics\_materials\dabernethy-m-20191212092320.material.bin
 graphics\_materials\dabernethy-m-20191212094216.material.bin
 graphics\_materials\dabernethy-m-20191219135532.material.bin
 graphics\_materials\dabernethy-m-20200121100923.material.bin
+graphics\_materials\dabernethy-m-20200122091243.material.bin
 graphics\_materials\dabernethy-m-20200207110721.material.bin
 graphics\_materials\dabernethy-m-20200207110809.material.bin
 graphics\_materials\dabernethy-m-20200207110906.material.bin
@@ -12974,6 +12979,13 @@ graphics\_materials\ealtamirano-m-20191217174730.material.bin
 graphics\_materials\ealtamirano-m-20200107124257.material.bin
 graphics\_materials\ealtamirano-m-20200107130344.material.bin
 graphics\_materials\ealtamirano-m-20200107183053.material.bin
+graphics\_materials\ealtamirano-m-20200115163242.material.bin
+graphics\_materials\ealtamirano-m-20200115163354.material.bin
+graphics\_materials\ealtamirano-m-20200115163543.material.bin
+graphics\_materials\ealtamirano-m-20200115164101.material.bin
+graphics\_materials\ealtamirano-m-20200115164147.material.bin
+graphics\_materials\ealtamirano-m-20200115164300.material.bin
+graphics\_materials\ealtamirano-m-20200116181943.material.bin
 graphics\_materials\ecorreia-m-20181119152023.material.bin
 graphics\_materials\ecorreia-m-20181120104511.material.bin
 graphics\_materials\ecorreia-m-20181130174006.material.bin
@@ -13783,6 +13795,9 @@ graphics\_materials\jfrancolineros-m-20190614113623.material.bin
 graphics\_materials\jfrancolineros-m-20190614123308.material.bin
 graphics\_materials\jfrancolineros-m-20190617145234.material.bin
 graphics\_materials\jfrancolineros-m-20190620095930.material.bin
+graphics\_materials\jfrancolineros-m-20190624105235.material.bin
+graphics\_materials\jfrancolineros-m-20190624133933.material.bin
+graphics\_materials\jfrancolineros-m-20190625144310.material.bin
 graphics\_materials\jfrancolineros-m-20190905134944.material.bin
 graphics\_materials\jfrancolineros-m-20190905135057.material.bin
 graphics\_materials\jfrancolineros-m-20190905135212.material.bin
@@ -14251,6 +14266,7 @@ graphics\_materials\luismatamoros-m-20200123111332.material.bin
 graphics\_materials\luismatamoros-m-20200127125600.material.bin
 graphics\_materials\luismatamoros-m-20200127175227.material.bin
 graphics\_materials\luismatamoros-m-20200128111658.material.bin
+graphics\_materials\luismatamoros-m-20200130111433.material.bin
 graphics\_materials\luismatamoros-m-20200227114120.material.bin
 graphics\_materials\luismatamoros-m-20200227114147.material.bin
 graphics\_materials\luismatamoros-m-20200227114211.material.bin
@@ -14596,6 +14612,13 @@ graphics\_materials\mkang-m-20181121172739.material.bin
 graphics\_materials\mkang-m-20190320101834.material.bin
 graphics\_materials\mkang-m-20190329124839.material.bin
 graphics\_materials\mkang-m-20190329124914.material.bin
+graphics\_materials\mkang-m-20190510102331.material.bin
+graphics\_materials\mkang-m-20190510103613.material.bin
+graphics\_materials\mkang-m-20190510103928.material.bin
+graphics\_materials\mkang-m-20190522105751.material.bin
+graphics\_materials\mkang-m-20190522105859.material.bin
+graphics\_materials\mkang-m-20190522105928.material.bin
+graphics\_materials\mkang-m-20190710112820.material.bin
 graphics\_materials\mkang-m-20191122125800.material.bin
 graphics\_materials\mkang-m-20191122192535.material.bin
 graphics\_materials\mkang-m-20200507131336.material.bin
@@ -15100,6 +15123,8 @@ graphics\_materials\saldarraji-m-20191111132329.material.bin
 graphics\_materials\saldarraji-m-20191111134822.material.bin
 graphics\_materials\saldarraji-m-20191111134919.material.bin
 graphics\_materials\saldarraji-m-20191111140339.material.bin
+graphics\_materials\saldarraji-m-20191112130439.material.bin
+graphics\_materials\saldarraji-m-20191112130520.material.bin
 graphics\_materials\saldarraji-m-20191112144504.material.bin
 graphics\_materials\saldarraji-m-20191112145110.material.bin
 graphics\_materials\saldarraji-m-20191112145147.material.bin
@@ -15116,6 +15141,9 @@ graphics\_materials\saldarraji-m-20191115141220.material.bin
 graphics\_materials\saldarraji-m-20191115141419.material.bin
 graphics\_materials\saldarraji-m-20191115144711.material.bin
 graphics\_materials\saldarraji-m-20191115144839.material.bin
+graphics\_materials\saldarraji-m-20191115145926.material.bin
+graphics\_materials\saldarraji-m-20191115150101.material.bin
+graphics\_materials\saldarraji-m-20191115150226.material.bin
 graphics\_materials\saldarraji-m-20191120112329.material.bin
 graphics\_materials\saldarraji-m-20191120125614.material.bin
 graphics\_materials\saldarraji-m-20191120125741.material.bin
@@ -15131,6 +15159,13 @@ graphics\_materials\saldarraji-m-20191219145224.material.bin
 graphics\_materials\saldarraji-m-20191223105745.material.bin
 graphics\_materials\saldarraji-m-20191223113106.material.bin
 graphics\_materials\saldarraji-m-20200128164249.material.bin
+graphics\_materials\saldarraji-m-20200518203606.material.bin
+graphics\_materials\saldarraji-m-20200518203622.material.bin
+graphics\_materials\saldarraji-m-20200524183351.material.bin
+graphics\_materials\saldarraji-m-20200524183357.material.bin
+graphics\_materials\saldarraji-m-20200524183404.material.bin
+graphics\_materials\saldarraji-m-20200524183409.material.bin
+graphics\_materials\saldarraji-m-20200524184048.material.bin
 graphics\_materials\saldarraji-m-20200601020651.material.bin
 graphics\_materials\saldarraji-m-20200601020732.material.bin
 graphics\_materials\saldarraji-m-20200601020757.material.bin
@@ -15140,6 +15175,7 @@ graphics\_materials\saldarraji-m-20200629012926.material.bin
 graphics\_materials\saldarraji-m-20200715142034.material.bin
 graphics\_materials\saldarraji-m-20201122201257.material.bin
 graphics\_materials\saldarraji-m-20201122201831.material.bin
+graphics\_materials\saldarraji-m-20201205185122.material.bin
 graphics\_materials\sbeaulieu-m-20170906155330.material.bin
 graphics\_materials\sbeaulieu-m-20190212152522.material.bin
 graphics\_materials\sbeaulieu-m-20190212153333.material.bin

@@ -1,5 +1,6 @@
-; 6957/30870 (22%)
+; 6982/30870 (22%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
+animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
 animations\cinematics\assaults\aslt01\aslt01_brief\aslt01_brief_cam_binkextention_v05.animtrackcol
 animations\cinematics\assaults\aslt01\aslt01_brief\aslt01_brief_cam_v05.animtrackcol
@@ -2157,6 +2158,7 @@ graphics\_materials\bplasschaert-m-20200707143946.material.bin
 graphics\_materials\cbonilla-m-20191001113918.material.bin
 graphics\_materials\cbonilla-m-20191001115901.material.bin
 graphics\_materials\cbonilla-m-20191001162443.material.bin
+graphics\_materials\cbonilla-m-20191029131702.material.bin
 graphics\_materials\cbonilla-m-20200226143257.material.bin
 graphics\_materials\cbonilla-m-20200430075904.material.bin
 graphics\_materials\cbonilla-m-20200430080020.material.bin
@@ -3049,6 +3051,23 @@ graphics\_materials\ricardoperez-m-20190909174357.material.bin
 graphics\_materials\ricardoperez-m-20190909175252.material.bin
 graphics\_materials\ricardoperez-m-20190909175325.material.bin
 graphics\_materials\ricardoperez-m-20190909175410.material.bin
+graphics\_materials\ricardoperez-m-20191004174015.material.bin
+graphics\_materials\ricardoperez-m-20191014103850.material.bin
+graphics\_materials\ricardoperez-m-20191014103948.material.bin
+graphics\_materials\ricardoperez-m-20191014104018.material.bin
+graphics\_materials\ricardoperez-m-20191015182139.material.bin
+graphics\_materials\ricardoperez-m-20191016103226.material.bin
+graphics\_materials\ricardoperez-m-20191016113204.material.bin
+graphics\_materials\ricardoperez-m-20191017122645.material.bin
+graphics\_materials\ricardoperez-m-20191021115206.material.bin
+graphics\_materials\ricardoperez-m-20191021115642.material.bin
+graphics\_materials\ricardoperez-m-20191021115727.material.bin
+graphics\_materials\ricardoperez-m-20191021115829.material.bin
+graphics\_materials\ricardoperez-m-20191021120023.material.bin
+graphics\_materials\ricardoperez-m-20191021174640.material.bin
+graphics\_materials\ricardoperez-m-20191022164125.material.bin
+graphics\_materials\ricardoperez-m-20191025153658.material.bin
+graphics\_materials\ricardoperez-m-20191025153827.material.bin
 graphics\_materials\ricardoperez-m-20200330235021.material.bin
 graphics\_materials\rjabonitalla-m-20190205163146.material.bin
 graphics\_materials\rjabonitalla-m-20190206094351.material.bin
@@ -3236,6 +3255,12 @@ graphics\_materials\storres-m-20200407213401.material.bin
 graphics\_materials\storres-m-20200616124339.material.bin
 graphics\_materials\storres-m-20200616132047.material.bin
 graphics\_materials\storres-m-20200616142116.material.bin
+graphics\_materials\storres-m-20200630115427.material.bin
+graphics\_materials\storres-m-20200630121852.material.bin
+graphics\_materials\storres-m-20200630122431.material.bin
+graphics\_materials\storres-m-20200630125805.material.bin
+graphics\_materials\storres-m-20200701072149.material.bin
+graphics\_materials\storres-m-20200701074118.material.bin
 graphics\_materials\svarma-m-20210512155322.material.bin
 graphics\_materials\tdeblock-m-20190626104604.material.bin
 graphics\_materials\tdeblock-m-20201208163131.material.bin
