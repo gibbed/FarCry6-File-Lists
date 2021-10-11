@@ -1,9 +1,10 @@
-; 1008/1049 (96%)
+; 1049/1049 (100%)
 ; 49 not in parent
 graphics\_common\_textures\nature\water\gfx_watercalm.xbt
 graphics\_common\characters\fc6\animals\anml_pig_basic\_textures\anml_fc6_pig_basic_domestic\anml_pig_basic_domestic_new_b.xbt
 graphics\_common\characters\fc6\animals\anml_pig_basic\_textures\anml_fc6_pig_basic_domestic\anml_pig_basic_domestic_new_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_shirtshort_02_m_b.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_civ_shirtshort_02_m_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_shirtshort_02_m_dm.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_shirtshort_02_m_dm_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_shirtshort_02_m_n.xbt
@@ -16,6 +17,7 @@ graphics\biomes\nature\_textures\decals\bio_dl_generic_walkway_01_a.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_generic_waterpuddle_01_d.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_generic_waterpuddle_01_d_mips.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_generic_waterpuddle_01_n.xbt
+graphics\biomes\nature\_textures\decals\bio_dl_generic_waterpuddle_01_n_mips.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_road_asphalt_crosscrack_middle_01_b.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_road_asphalt_crosscrack_middle_01_b_mips.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_road_asphalt_crosscrack_middle_01_n.xbt
@@ -23,6 +25,7 @@ graphics\biomes\nature\_textures\decals\bio_dl_road_asphalt_crosscrack_middle_01
 graphics\biomes\nature\_textures\decals\bio_dl_road_asphalt_trafficline_15cm_01_m.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_road_dirt_tiretrack_long_01_a.xbt
 graphics\biomes\nature\_textures\decals\fct\road\bio_dl_road_mud_tiretracks_turn_01_a.xbt
+graphics\biomes\nature\_textures\decals\fct\road\bio_dl_road_mud_tiretracks_turn_01_a_mips.xbt
 graphics\biomes\nature\_textures\decals\road\bio_dl_road_cobblestones_edge_01_a.xbt
 graphics\biomes\nature\_textures\decals\road\bio_dl_road_cobblestones_edge_01_a_mips.xbt
 graphics\biomes\nature\_textures\decals\road\bio_dl_road_cobblestones_edge_01_b.xbt
@@ -61,6 +64,7 @@ graphics\biomes\nature\_textures\rocks\bio_generic_soil_01_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_b.xbt
 graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_b_mips.xbt
 graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_mat.xbt
+graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_mat_mips.xbt
 graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_n.xbt
 graphics\biomes\vegetation\_textures\bio_bs_eucalyptus_epiphytes_01_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_bs_hedgeplants_01_b.xbt
@@ -107,6 +111,7 @@ graphics\biomes\vegetation\_textures\bio_sta_generic_stump_04_n.xbt
 graphics\biomes\vegetation\_textures\bio_sta_generic_stump_04_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_sta_hedgeplants_01_mat.xbt
 graphics\biomes\vegetation\_textures\bio_sta_mbl_ground_clumps_02_b.xbt
+graphics\biomes\vegetation\_textures\bio_sta_mbl_ground_clumps_02_b_mips.xbt
 graphics\biomes\vegetation\_textures\bio_sta_mbl_ground_clumps_02_n.xbt
 graphics\biomes\vegetation\_textures\bio_sta_mbl_ground_clumps_02_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_sta_mbl_root_clumps_02_n.xbt
@@ -120,6 +125,7 @@ graphics\biomes\vegetation\_textures\bio_sta_stranglerfig_20m_01_roots_n_mips.xb
 graphics\biomes\vegetation\_textures\bio_sta_stranglerfig_20m_02_roots_n.xbt
 graphics\biomes\vegetation\_textures\bio_sta_stranglerfig_20m_02_roots_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_aborescentfern_bark_01_b.xbt
+graphics\biomes\vegetation\_textures\bio_tr_aborescentfern_bark_01_b_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_aborescentfern_bark_01_mat.xbt
 graphics\biomes\vegetation\_textures\bio_tr_aborescentfern_bark_01_n.xbt
 graphics\biomes\vegetation\_textures\bio_tr_aborescentfern_bark_01_n_mips.xbt
@@ -146,6 +152,7 @@ graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_bark_01_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_b.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_b_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_mat.xbt
+graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_mat_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_n.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_leaf_01_n_mips.xbt
 graphics\biomes\vegetation\_textures\bio_tr_stranglerfig_vines_01_b.xbt
@@ -318,6 +325,7 @@ graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\co
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\cooling_station\gp_dino_drinking_fountain_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\cooling_station\gp_dino_drinking_fountain_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\cooling_station\gp_dino_drinking_fountain_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\cooling_station\gp_dino_drinking_fountain_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\freezer_02_vfx_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\freezer_02_vfx_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\_gameplayobjects\freezer_02_vfx_m.xbt
@@ -339,6 +347,7 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\dir
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\entrance_yarapark_ticketsign_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\mine_entrance_sign_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\commercial\airport\airbase_memorial_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\commercial\airport\airbase_memorial_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\sign\sign_board_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\structures\residential\buildingkit\colonial_town_a\mudslide\colonial_town_a_roof_mudslide_02_8m_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadeshared\branding\branding_assaults_shared_h.xbt
@@ -371,9 +380,11 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\comm
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\ankylosaurus_01\ankylosaurus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\ankylosaurus_01\ankylosaurus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\ankylosaurus_01\ankylosaurus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\ankylosaurus_01\ankylosaurus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\apatosaurus_02_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\apatosaurus_02_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\apatosaurus_02_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\apatosaurus_02_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\brachiosaurus_01\brachiosaurus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\brachiosaurus_01\brachiosaurus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\brachiosaurus_01\brachiosaurus_01_um.xbt
@@ -381,38 +392,51 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\comm
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dimetrodon_01\dimetrodon_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dimetrodon_01\dimetrodon_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dimetrodon_01\dimetrodon_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dimetrodon_01\dimetrodon_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dinosaur_statue_chelsea_01\dinosaur_statue_chelsea_01_decal_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\dinosaur_statue_chelsea_01\dinosaur_statue_chelsea_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\iguanadon_01\iguanadon_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\iguanadon_01\iguanadon_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\iguanadon_01\iguanadon_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\iguanadon_01\iguanadon_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\parasaurolophus_01\parasaurolophus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\parasaurolophus_01\parasaurolophus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\parasaurolophus_01\parasaurolophus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\parasaurolophus_01\parasaurolophus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\plesiosaurus_01\plesiosaurus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\plesiosaurus_01\plesiosaurus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\plesiosaurus_01\plesiosaurus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\plesiosaurus_01\plesiosaurus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\pteranodon_01\pteranodon_01_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\pteranodon_01\pteranodon_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\pteranodon_01\pteranodon_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\pteranodon_01\pteranodon_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\sarchosuchus_01\sarchosuchus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\sarchosuchus_01\sarchosuchus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\sarchosuchus_01\sarchosuchus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\sarchosuchus_01\sarchosuchus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\spinosaurus_01\spinosaurus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\spinosaurus_01\spinosaurus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\spinosaurus_01\spinosaurus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\spinosaurus_01\spinosaurus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\stegosaurus_01\stegosaurus_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\stegosaurus_01\stegosaurus_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\stegosaurus_01\stegosaurus_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\stegosaurus_01\stegosaurus_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\triceratops_01\triceratops_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\triceratops_01\triceratops_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\triceratops_01\triceratops_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\triceratops_01\triceratops_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_01_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_03_anim_tarp_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_03_anim_tarp_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_03_anim_tarp_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\tyrannosaurus_rex_01\tyrannosaurus_rex_03_anim_tarp_um_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\utahraptor_01\utahraptor_01_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\utahraptor_01\utahraptor_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\prehistoric\utahraptor_01\utahraptor_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\store\museum_stand_broken_01\museum_stand_broken_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\store\museum_stand_broken_02\museum_stand_broken_02_um.xbt
@@ -494,6 +518,7 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\structures\r
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\structures\residential\sheds\shed_fishing_medium_01_mudslide_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\animal\corpses\pig_basic_dead_01_mud_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\animal\tyrannosaurus_rex_skull_01_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\natural\animal\tyrannosaurus_rex_skull_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\animal\tyrannosaurus_rex_skull_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\ber_generic_mud_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\ber_generic_mud_01_b_mips.xbt
@@ -511,9 +536,11 @@ graphics\tetra_post_launch\tetra_assaults\_textures\natural\biome\vegetation\coc
 graphics\tetra_post_launch\tetra_assaults\_textures\natural\biome\vegetation\coconutpalm\coconutpalm_leaf_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\manmade\objects\branding\sign_airbase_01_um.xbt
 graphics\ui\zeta\09_worldmap\_textures\diorama\concrete_old_01_n.xbt
+graphics\ui\zeta\09_worldmap\_textures\diorama\concrete_old_01_n_mips.xbt
 graphics\vehicles\_textures\land\truck\truck\veh_truck_4cab_int_m.xbt
 graphics\vehicles\_textures\land\truck\truck\veh_truck_4cab_int_m_mips.xbt
 graphics\world\_textures\manmadeshared\branding\bipmap\location\location_e2poi07_01\location_e2poi07_01_d.xbt
+graphics\world\_textures\manmadeshared\branding\bipmap\location\location_e2poi07_01\location_e2poi07_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\branding\commercial\branding_adverts_03_tvstudio_b.xbt
 graphics\world\_textures\manmadeshared\branding\commercial\branding_adverts_03_tvstudio_b_mips.xbt
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_03_b.xbt
@@ -521,6 +548,7 @@ graphics\world\_textures\manmadeshared\branding\government\regime\branding_billb
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_05_h.xbt
 graphics\world\_textures\manmadeshared\branding\government\regime\branding_billboard_villain_05_h_mips.xbt
 graphics\world\_textures\manmadeshared\branding\guerilla\garage_rustic_large_01_graffiti_h.xbt
+graphics\world\_textures\manmadeshared\branding\guerilla\garage_rustic_large_01_graffiti_h_mips.xbt
 graphics\world\_textures\manmadeshared\branding\shared\brandingshared_east_01_b.xbt
 graphics\world\_textures\manmadeshared\branding\shared\brandingshared_east_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\branding\shared\brandingshared_east_moaguan_01_b.xbt
@@ -544,9 +572,11 @@ graphics\world\_textures\manmadeshared\decals\decal_toxic_mud_01\decal_toxic_mud
 graphics\world\_textures\manmadeshared\decals\decal_toxic_mud_01\decal_toxic_mud_01_n.xbt
 graphics\world\_textures\manmadeshared\decals\decal_toxic_mud_01\decal_toxic_mud_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\fabrics\fabric_lace_01\fabric_lace_01_b.xbt
+graphics\world\_textures\manmadeshared\fabrics\fabric_lace_01\fabric_lace_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\fabrics\fabric_lace_01\fabric_lace_01_n.xbt
 graphics\world\_textures\manmadeshared\fabrics\fabric_lace_01\fabric_lace_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\fabrics\polyester_tintable_01\polyester_tintable_01_d.xbt
+graphics\world\_textures\manmadeshared\fabrics\polyester_tintable_01\polyester_tintable_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\floor\groundplaza_tile_01\groundplaza_tile_01_b.xbt
 graphics\world\_textures\manmadeshared\floor\groundplaza_tile_01\groundplaza_tile_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\floor\groundplaza_tile_01\groundplaza_tile_01_n.xbt
@@ -558,9 +588,11 @@ graphics\world\_textures\manmadeshared\floor\tile_marble_01\tile_marble_01_check
 graphics\world\_textures\manmadeshared\floor\tile_marble_01\tile_marble_01_n.xbt
 graphics\world\_textures\manmadeshared\floor\tile_marble_01\tile_marble_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\food\coffee_cherries_01\coffee_cherries_01_b.xbt
+graphics\world\_textures\manmadeshared\food\coffee_cherries_01\coffee_cherries_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\food\coffee_cherries_01\coffee_cherries_01_n.xbt
 graphics\world\_textures\manmadeshared\food\coffee_cherries_01\coffee_cherries_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\food\meatchunks_01\meatchunks_01_n.xbt
+graphics\world\_textures\manmadeshared\food\meatchunks_01\meatchunks_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\glass\fake_interior_drapes_array_01\fake_interior_drapes_array_01_b.xbt
 graphics\world\_textures\manmadeshared\interior\tile_vinyl_01\tile_vinyl_01_b.xbt
 graphics\world\_textures\manmadeshared\interior\tile_vinyl_01\tile_vinyl_01_b_mips.xbt
@@ -624,6 +656,7 @@ graphics\world\_textures\manmadespecific\objects\commercial\bar\piano_01\piano_0
 graphics\world\_textures\manmadespecific\objects\commercial\branding\billboard_dinopark_01_medium_b.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\branding\billboard_dinopark_01_medium_b_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\branding\billboard_dinopark_01_medium_h.xbt
+graphics\world\_textures\manmadespecific\objects\commercial\branding\billboard_dinopark_01_medium_h_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\electronics\acunit_01\acunit_01_m.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\electronics\payphone_booth_double_01\payphone_booth_double_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\electronics\speaker_stand_01\speaker_stand_01_um.xbt
@@ -640,12 +673,15 @@ graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_01_n_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_02_b.xbt
+graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_02_b_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_02_n.xbt
+graphics\world\_textures\manmadespecific\objects\commercial\furniture\benchfancy_01\benchfancy_02_n_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\chair_barber_01\chair_barber_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\coffeetable_01\coffeetable_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\desk_reception_01\desk_reception_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\desk_wood_01\desk_wood_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\patio_chair_banded_01\patio_chair_banded_01_d.xbt
+graphics\world\_textures\manmadespecific\objects\commercial\furniture\patio_chair_banded_01\patio_chair_banded_01_d_mips.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\patio_chair_banded_01\patio_chair_banded_01_m.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\patio_chair_banded_01\patio_chair_banded_01_n.xbt
 graphics\world\_textures\manmadespecific\objects\commercial\furniture\patio_chair_banded_01\patio_chair_banded_01_n_mips.xbt
@@ -763,7 +799,9 @@ graphics\world\_textures\manmadespecific\objects\religious\cross_monstrance_orna
 graphics\world\_textures\manmadespecific\objects\religious\cross_processional_church_01\cross_processional_church_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\religious\crucifix_large_01\crucifix_large_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_b.xbt
+graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_b_mips.xbt
 graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_mat.xbt
+graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_mat_mips.xbt
 graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_n.xbt
 graphics\world\_textures\manmadespecific\objects\religious\kalimba_01_n_mips.xbt
 graphics\world\_textures\manmadespecific\objects\religious\kneelingpew_church_01\kneelingpew_church_01_um.xbt
@@ -777,6 +815,7 @@ graphics\world\_textures\manmadespecific\objects\religious\statuette_jesus_01\st
 graphics\world\_textures\manmadespecific\objects\religious\statuette_mary_02\statuette_mary_02_n.xbt
 graphics\world\_textures\manmadespecific\objects\religious\statuette_mary_02\statuette_mary_02_n_mips.xbt
 graphics\world\_textures\manmadespecific\objects\religious\statuette_mary_02\statuette_mary_02_um.xbt
+graphics\world\_textures\manmadespecific\objects\religious\statuette_mary_02\statuette_mary_02_um_mips.xbt
 graphics\world\_textures\manmadespecific\objects\religious\table_communion_01\table_communion_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\residential\bathroom\shower_wall_01\shower_wall_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\residential\branding\sign_hotel\sign_hotel_um.xbt
@@ -938,8 +977,10 @@ graphics\world\_textures\manmadespecific\structures\religious\cemetery_mausuleom
 graphics\world\_textures\manmadespecific\structures\religious\cemetery_mausuleom_01_niches\cemetery_mausuleom_01_niches_um.xbt
 graphics\world\_textures\manmadespecific\structures\religious\church_02\church_02_um.xbt
 graphics\world\_textures\manmadespecific\structures\religious\church_03\church_03_exterior_um.xbt
+graphics\world\_textures\manmadespecific\structures\religious\church_03\church_03_exterior_um_mips.xbt
 graphics\world\_textures\manmadespecific\structures\residential\apartmentblock\sovietbloc_a_column_01\sovietbloc_a_column_01_um.xbt
 graphics\world\_textures\manmadespecific\structures\residential\apartmentblock\sovietbloc_c_01\sovietbloc_c_01_um.xbt
+graphics\world\_textures\manmadespecific\structures\residential\apartmentblock\sovietbloc_c_01\sovietbloc_c_01_um_mips.xbt
 graphics\world\_textures\manmadespecific\structures\residential\buildingkit\alley_sidewall_01\alley_sidewall_01_um.xbt
 graphics\world\_textures\manmadespecific\structures\residential\buildingkit\colonial_town_a\colonial_town_a_steps_01\colonial_town_a_steps_01_um.xbt
 graphics\world\_textures\manmadespecific\structures\residential\buildingkit\colonial_town_a_balcony_01_8m\colonial_town_a_balcony_01_8m_um.xbt
