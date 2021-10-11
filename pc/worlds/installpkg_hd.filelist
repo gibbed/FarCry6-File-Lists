@@ -1,4 +1,4 @@
-; 19193/20409 (94%)
+; 19197/20409 (94%)
 ; 1717 not in parent
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_b.xbt
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_dm.xbt
@@ -42,6 +42,9 @@ graphics\__fct_graphics\_textures\_characters\fct_tst_uni_u_placeholder_d_02.xbt
 graphics\__fct_graphics\_textures\_characters\fct_tst_uni_u_placeholder_d_02_mips.xbt
 graphics\__fct_graphics\_textures\_characters\fct_tst_uni_u_placeholder_n_01.xbt
 graphics\__fct_graphics\_textures\_characters\fct_tst_uni_u_placeholder_n_01_mips.xbt
+graphics\__fct_graphics\_textures\_test\material _79_al.xbt
+graphics\__fct_graphics\_textures\_test\material _79_mt.xbt
+graphics\__fct_graphics\_textures\_test\material _79_ns.xbt
 graphics\__fct_graphics\_textures\_test\wpn_flamethrower_decals_al.xbt
 graphics\__fct_graphics\_textures\_test\wpn_flamethrower_decals_al_mips.xbt
 graphics\__fct_graphics\_textures\_test\wpn_flamethrower_decals_ns.xbt
@@ -10703,6 +10706,7 @@ graphics\gameplay\_textures\_collectible\loot\containers\gp_lootcont_2p_utility_
 graphics\gameplay\_textures\_collectible\loot\containers\gp_lootcont_2p_weapon_crate_largeloot\gp_lootcont_2p_weapon_crate_largeloot_um.xbt
 graphics\gameplay\_textures\_collectible\loot\gp_usb_stick\gp_usb_stick_um.xbt
 graphics\gameplay\_textures\_collectible\loot\objects\gp_lootcont_1p_storage_bag\gp_lootcont_1p_storage_bag_um.xbt
+graphics\gameplay\_textures\_collectible\loot\quest items\gp_thd_c801_tainokey_01\gp_thd_c801_tainokey_01_um.xbt
 graphics\gameplay\_textures\_collectible\pickup\ammo\gp_ammopile_resolver_01\ammopickup_al.xbt
 graphics\gameplay\_textures\_collectible\pickup\ammo\gp_ammopile_resolver_01\ammopickup_al_mips.xbt
 graphics\gameplay\_textures\_collectible\pickup\ammo\gp_ammopile_resolver_01\ammopickup_mt.xbt

@@ -1,4 +1,4 @@
-; 3635/3868 (93%)
+; 3638/3868 (94%)
 ; 284 not in parent
 graphics\_common\_textures\fx\fc_vfx_rainbow.xbt
 graphics\_common\_textures\vehicles\shared\tire01_n.xbt
@@ -1379,6 +1379,8 @@ graphics\gameplay\_textures\_collectible\loot\containers\gp_lootcont_2p_toolbox_
 graphics\gameplay\_textures\_collectible\loot\containers\gp_lootcont_2p_wooden_chest\gp_lootcont_2p_wooden_chest_um.xbt
 graphics\gameplay\_textures\_collectible\loot\quest _items\gp_mis0145_carlos_machete\gp_mis0145_carlos_machete_um.xbt
 graphics\gameplay\_textures\_collectible\loot\quest items\gp_quest_item_mis0120_crocodile_mascot_statue_head\gp_quest_item_mis0120_crocodile_mascot_statue_head_um.xbt
+graphics\gameplay\_textures\_collectible\loot\quest items\gp_quest_item_mis0260_case_of_rum\gp_quest_item_mis0260_case_of_rum_um.xbt
+graphics\gameplay\_textures\_collectible\loot\quest items\gp_quest_item_mis0495_baseball_memorial_jersey\gp_quest_item_mis0495_baseball_memorial_jersey_um.xbt
 graphics\gameplay\_textures\_collectible\pickup\weapon\gp_collectible_baseball_pitcher_machine_mis0160\gp_collectible_baseball_pitcher_machine_mis0160_um.xbt
 graphics\gameplay\_textures\_collectible\resource\gp_resource_major_mystery\gp_resource_major_mystery_um.xbt
 graphics\gameplay\_textures\_collectibles\intel\gp_intel_treasurehunt_box_01_um.xbt
@@ -2412,6 +2414,7 @@ graphics\world\_textures\manmadespecific\objects\industrial\mechanical\grainelev
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\industrial_fan_01\fan_industrial_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\liferaft_01_crane\liferaft_01_crane_um.xbt
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\machine_lamellathickener_01\machine_lamellathickener_01_um.xbt
+graphics\world\_textures\manmadespecific\objects\industrial\mechanical\machine_weaponsproduction _01\machine_weaponsproduction_01_um.xbt
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\machine_weaponsproduction_03\machine_weaponsproduction_03_um.xbt
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\pipe_utility_01\pipe_utility_01_m.xbt
 graphics\world\_textures\manmadespecific\objects\industrial\mechanical\port_crane_01\port_crane_01_um.xbt
