@@ -1,4 +1,4 @@
-; 7556/18545 (40%)
+; 7558/18545 (40%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -2325,6 +2325,7 @@ ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_campchefrecipes_1
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_campchefrecipes_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_chicken_cages_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_chicken_cages_12.xbt
+ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_usbsticks_11.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_mapreveal_usbsticks_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_medium_spray_cans_12.xbt
 ui\tetra\textures\gearicons\storetiles\background\bg_small_spray_cans_12.xbt
@@ -2413,6 +2414,7 @@ ui\tetra\textures\gge_icons\tx_gge_icon_advanced_explosives_gadget_pocket.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_aim_down_sights_damage_tradeoff.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_aimmodebuff_aimdownsights.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_aimmodebuff_movespeed.xbt
+ui\tetra\textures\gge_icons\tx_gge_icon_alerted_front_takedowns.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_amigo_kill_triggers_move_speed.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_animal_ally.xbt
 ui\tetra\textures\gge_icons\tx_gge_icon_animal_detection_reduction.xbt

@@ -1,4 +1,4 @@
-; 9965/30870 (32%)
+; 9966/30870 (32%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
@@ -5744,6 +5744,7 @@ graphics\_materials\nhrushevskyi-m-20200827090146.material.bin
 graphics\_materials\nhrushevskyi-m-20200827115953.material.bin
 graphics\_materials\nhrushevskyi-m-20200828090231.material.bin
 graphics\_materials\nhrushevskyi-m-20200828151431.material.bin
+graphics\_materials\nhrushevskyi-m-20200901123734.material.bin
 graphics\_materials\nhrushevskyi-m-20200915112452.material.bin
 graphics\_materials\nhrushevskyi-m-20200915112627.material.bin
 graphics\_materials\nhrushevskyi-m-20200915113249.material.bin
