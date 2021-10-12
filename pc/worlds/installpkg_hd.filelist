@@ -1,4 +1,4 @@
-; 20387/20409 (99%)
+; 20394/20409 (99%)
 ; 1717 not in parent
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_b.xbt
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_b_mips.xbt
@@ -13322,6 +13322,13 @@ graphics\weapons\_textures\attachments\charms\baseball ball\wpn_att_charm_baseba
 graphics\weapons\_textures\attachments\charms\baseball ball\wpn_att_charm_baseballball_n_mips.xbt
 graphics\weapons\_textures\attachments\charms\baseball ball\wpn_att_charm_baseballball_um.xbt
 graphics\weapons\_textures\attachments\charms\baseball ball\wpn_att_charm_baseballball_um_mips.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_b.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_b_mips.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_mat.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_n.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_n_mips.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_um.xbt
+graphics\weapons\_textures\attachments\charms\baseball bat\wpn_att_charm_baseballbat_um_mips.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_b.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_b_mips.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_mat.xbt

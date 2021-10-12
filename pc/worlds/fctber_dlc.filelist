@@ -1,4 +1,4 @@
-; 9966/30870 (32%)
+; 9970/30870 (32%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
@@ -4699,6 +4699,7 @@ graphics\_materials\cynthiaalvarez-m-20200514161955.material.bin
 graphics\_materials\cynthiaalvarez-m-20200601204455.material.bin
 graphics\_materials\cynthiaalvarez-m-20200602161009.material.bin
 graphics\_materials\cynthiaalvarez-m-20200701220222.material.bin
+graphics\_materials\dabernethy-m-20191118165216.material.bin
 graphics\_materials\dabernethy-m-20191125085416.material.bin
 graphics\_materials\dabernethy-m-20191125091210.material.bin
 graphics\_materials\dabernethy-m-20191202090951.material.bin
@@ -5282,6 +5283,7 @@ graphics\_materials\jorgeluz-m-20190627153547.material.bin
 graphics\_materials\jorgeluz-m-20191211141645.material.bin
 graphics\_materials\jorgeluz-m-20191211141845.material.bin
 graphics\_materials\jorgeluz-m-20191212155644.material.bin
+graphics\_materials\jorgeluz-m-20200110140511.material.bin
 graphics\_materials\josehernandez-m-20190805143450.material.bin
 graphics\_materials\josehernandez-m-20190805152155.material.bin
 graphics\_materials\josehernandez-m-20200121130634.material.bin
@@ -5440,6 +5442,7 @@ graphics\_materials\luismatamoros-m-20200227114120.material.bin
 graphics\_materials\luismatamoros-m-20200227114147.material.bin
 graphics\_materials\luismatamoros-m-20200227114211.material.bin
 graphics\_materials\luismatamoros-m-20200227150706.material.bin
+graphics\_materials\luismatamoros-m-20200317165403.material.bin
 graphics\_materials\luismatamoros-m-20200328214422.material.bin
 graphics\_materials\luismatamoros-m-20200625110535.material.bin
 graphics\_materials\luisvaca-m-20200107112343.material.bin
@@ -5940,6 +5943,7 @@ graphics\_materials\rsalas-m-20200128175653.material.bin
 graphics\_materials\rsalas-m-20200129152432.material.bin
 graphics\_materials\rsalas-m-20200205182317.material.bin
 graphics\_materials\rsalas-m-20200317161506.material.bin
+graphics\_materials\rsalas-m-20200319151552.material.bin
 graphics\_materials\rspinney-m-20190214110952.material.bin
 graphics\_materials\rspinney-m-20190214111040.material.bin
 graphics\_materials\rspinney-m-20190214111311.material.bin
