@@ -1,4 +1,4 @@
-; 7535/18545 (40%)
+; 7556/18545 (40%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -1393,6 +1393,7 @@ ui\tetra\textures\1newui\menus\x_notifications\tx_notificationfull.xbt
 ui\tetra\textures\1newui\menus\x_notifications\tx_notificationnew.xbt
 ui\tetra\textures\1newui\menus\x_notifications\tx_notificationnewsmall.xbt
 ui\tetra\textures\1newui\menus\x_notifications\tx_notificationworkbench.xbt
+ui\tetra\textures\1newui\menus\x_notifications\tx_notificationworkbench_tooltip.xbt
 ui\tetra\textures\1newui\menus\x_tutorials\bribingsoldiers\tx_tutorial_bribing_panel1.xbt
 ui\tetra\textures\1newui\menus\x_tutorials\bribingsoldiers\tx_tutorial_bribing_panel2.xbt
 ui\tetra\textures\1newui\menus\x_tutorials\bribingsoldiers\tx_tutorial_bribing_panel3.xbt
@@ -1841,6 +1842,7 @@ ui\tetra\textures\1newui\x_icons\playerbase\tx_playerbaseicon_huntinglodge.xbt
 ui\tetra\textures\1newui\x_icons\playerbase\tx_playerbaseicon_safehouse.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_01.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_01_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_02.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_02_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_03.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_03_small.xbt
@@ -1860,22 +1862,39 @@ ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_10.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_10_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_11.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_11_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_12.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_12_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_13.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_13_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_14.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_14_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_15.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_15_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_16.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_16_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_17.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_17_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_18.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_18_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_19.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_19_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_20.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_20_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_21.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_21_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_22.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_22_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_23.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_23_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_24.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_24_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_25.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_25_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_26.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_26_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_27.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_27_small.xbt
+ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_28.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_28_small.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_invalid.xbt
 ui\tetra\textures\1newui\x_icons\playerrank\tx_playerrank_invalid_small.xbt
@@ -1887,6 +1906,7 @@ ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_medicine.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_metal.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_pesos.xbt
 ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_recruits.xbt
+ui\tetra\textures\1newui\x_icons\resources\hud\tx_resources_iconhud_vehiclescraps.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_absfilament.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_americancrocodilemeat.xbt
 ui\tetra\textures\1newui\x_icons\resources\large\tx_resources_iconlarge_angelfishmeat.xbt
@@ -2788,6 +2808,7 @@ ui\tetra\textures\hud\gadget_super_throwable\throwable_icons\tx_hud_icon_throwab
 ui\tetra\textures\hud\hudmessage\tx_failedicon.xbt
 ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_barrel.xbt
 ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_bomb.xbt
+ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_emp_grenade.xbt
 ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_flashbang_grenade.xbt
 ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_frag_grenade.xbt
 ui\tetra\textures\hud\indicators\hud_explosive_indicator\tx_explo_grenade.xbt
