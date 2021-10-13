@@ -1,4 +1,4 @@
-; 9970/30870 (32%)
+; 9971/30870 (32%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
@@ -5186,6 +5186,7 @@ graphics\_materials\jcadores-m-20191126100919.material.bin
 graphics\_materials\jcadores-m-20191126101252.material.bin
 graphics\_materials\jcadores-m-20191126105416.material.bin
 graphics\_materials\jcadores-m-20191126105753.material.bin
+graphics\_materials\jcadores-m-20191128135426.material.bin
 graphics\_materials\jcadores-m-20191128152526.material.bin
 graphics\_materials\jcadores-m-20191128153237.material.bin
 graphics\_materials\jcadores-m-20191128154244.material.bin

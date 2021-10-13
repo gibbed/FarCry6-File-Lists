@@ -1,4 +1,4 @@
-; 28072/66056 (42%)
+; 28114/66056 (42%)
 animations\ai\pose\ai_death_pose_indoctrinee01.mab
 animations\ai\pose\ai_death_pose_indoctrinee02.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
@@ -7617,6 +7617,9 @@ generated\worlds\fc6_aslt06\levels\b1\sdat\sd1509.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd1510.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd1511.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd1512.sdat
+generated\worlds\fc6_aslt06\levels\b1\sdat\sd1513.sdat
+generated\worlds\fc6_aslt06\levels\b1\sdat\sd1514.sdat
+generated\worlds\fc6_aslt06\levels\b1\sdat\sd1515.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd785.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd786.sdat
 generated\worlds\fc6_aslt06\levels\b1\sdat\sd787.sdat
@@ -7890,6 +7893,9 @@ generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1509.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1510.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1511.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1512.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1513.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1514.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_1515.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_785.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_786.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\grass_787.data.fcb
@@ -8231,6 +8237,7 @@ generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1415.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1416.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1416.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1417.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1417.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1418.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1419.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1420.desc.fcb
@@ -8245,8 +8252,11 @@ generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1459.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1460.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1460.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1461.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1461.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1462.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1462.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1463.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1463.wsecbdl
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1464.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1465.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1466.desc.fcb
@@ -8261,6 +8271,9 @@ generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1509.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1510.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1511.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1512.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1513.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1514.desc.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector1515.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector785.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector786.desc.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\sector787.desc.fcb
@@ -8663,6 +8676,9 @@ generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1509.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1510.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1511.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1512.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1513.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1514.data.fcb
+generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_1515.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_785.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_786.data.fcb
 generated\worlds\fc6_aslt06\levels\b1\worldsectors\worldsector_787.data.fcb
@@ -14607,6 +14623,9 @@ generated\worlds\fc6_aslt06\sectors\preload\sector_0_1509.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_1510.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_1511.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_1512.preload.fcb
+generated\worlds\fc6_aslt06\sectors\preload\sector_0_1513.preload.fcb
+generated\worlds\fc6_aslt06\sectors\preload\sector_0_1514.preload.fcb
+generated\worlds\fc6_aslt06\sectors\preload\sector_0_1515.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_2.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_48.preload.fcb
 generated\worlds\fc6_aslt06\sectors\preload\sector_0_49.preload.fcb
@@ -25387,6 +25406,10 @@ newparticles\9015495595933297.part
 newparticles\9015499058041358.part
 newparticles\9015527560490320.part
 newparticles\9015527800982199.part
+sequences\fc6_aslt\fc6_aslt_06\cin_aslt06_endscreen.cseq
+sequences\fc6_aslt\fc6_aslt_06\cin_aslt06_intro.cseq
+sequences\fc6_aslt\fc6_aslt_06\cin_aslt06_outro.cseq
+sequences\fc6_aslt\fc6_aslt_06\cin_aslt06_tutorial.cseq
 sequences\staged_stp\stp_masterslavewalkpushfemalehostage_end.cseq
 sequences\staged_stp\stp_masterslavewalkpushfemalehostage_loop.cseq
 sequences\staged_stp\stp_masterslavewalkpushfemalehostage_start.cseq
@@ -25415,6 +25438,7 @@ soundbinary\117762717.bnk
 soundbinary\1203296292.bnk
 soundbinary\1208017424.bnk
 soundbinary\121562261.bnk
+soundbinary\121674075.wem
 soundbinary\1229626523.bnk
 soundbinary\123142043.bnk
 soundbinary\123217585.wem
@@ -27195,6 +27219,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0014_0013.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0014_0014.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0014_0015.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0014_0016.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0014_0017.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0004.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0005.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0006.terrainnode.bdl
@@ -27208,6 +27233,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0013.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0014.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0015.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0016.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0015_0017.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0016_0004.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0016_0005.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0005_0001_0016_0006.terrainnode.bdl
@@ -27469,6 +27495,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0023_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0023_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0023_0031.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0023_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0013.terrainnode.bdl
@@ -27491,6 +27518,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0031.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0024_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0013.terrainnode.bdl
@@ -27513,6 +27541,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0031.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0025_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0013.terrainnode.bdl
@@ -27534,6 +27563,8 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0031.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0026_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0013.terrainnode.bdl
@@ -27555,6 +27586,8 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0031.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0027_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0013.terrainnode.bdl
@@ -27576,6 +27609,8 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0031.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0028_0032.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0013.terrainnode.bdl
@@ -27597,6 +27632,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0030.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0029_0031.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0013.terrainnode.bdl
@@ -27617,6 +27653,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0027.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0029.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0030_0030.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0013.terrainnode.bdl
@@ -27636,6 +27673,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0026.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0027.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0028.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0031_0029.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0013.terrainnode.bdl
@@ -27654,6 +27692,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0025.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0026.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0027.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0032_0028.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0013.terrainnode.bdl
@@ -27672,6 +27711,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0025.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0026.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0027.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0033_0028.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0013.terrainnode.bdl
@@ -27690,6 +27730,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0025.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0026.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0027.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0034_0028.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0013.terrainnode.bdl
@@ -27704,6 +27745,7 @@ worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0021.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0022.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0023.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0035_0024.terrainnode.bdl
+worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0036_0010.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0036_0011.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0036_0012.terrainnode.bdl
 worlds\fc6_aslt06\terrain\quadtree\bundles\0006_0000_0036_0013.terrainnode.bdl

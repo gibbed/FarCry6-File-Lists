@@ -1,13 +1,20 @@
-; 34/61 (55%)
+; 45/61 (73%)
+dialog\dialogbundle\1025479073.dialog
+dialog\dialogbundle\1176497910.dialog
 dialog\dialogbundle\1318488075.dialog
+dialog\dialogbundle\1325376066.dialog
 dialog\dialogbundle\1399901383.dialog
 dialog\dialogbundle\1606137958.dialog
 dialog\dialogbundle\1631828127.dialog
+dialog\dialogbundle\1656864475.dialog
 dialog\dialogbundle\1864175662.dialog
+dialog\dialogbundle\2042915626.dialog
 dialog\dialogbundle\2453454954.dialog
 dialog\dialogbundle\2745705805.dialog
+dialog\dialogbundle\2801425529.dialog
 dialog\dialogbundle\2855711058.dialog
 dialog\dialogbundle\3013714064.dialog
+dialog\dialogbundle\302221107.dialog
 dialog\dialogbundle\3101152373.dialog
 dialog\dialogbundle\3242637313.dialog
 dialog\dialogbundle\3268548678.dialog
@@ -15,9 +22,12 @@ dialog\dialogbundle\3401982210.dialog
 dialog\dialogbundle\3869517982.dialog
 dialog\dialogbundle\397407057.dialog
 dialog\dialogbundle\403345108.dialog
+dialog\dialogbundle\4054107946.dialog
+dialog\dialogbundle\4092507246.dialog
 dialog\dialogbundle\428046501.dialog
 dialog\dialogbundle\930265383.dialog
 soundbinary\126965297.wem
+soundbinary\137715436.wem
 soundbinary\2066765719.wem
 soundbinary\2067028022.wem
 soundbinary\2067030252.wem
@@ -30,6 +40,7 @@ soundbinary\518637131.wem
 soundbinary\541826591.wem
 soundbinary\635114737.wem
 soundbinary\692111131.wem
+soundbinary\702911520.wem
 soundbinary\731289400.wem
 soundbinary\733683995.wem
 soundbinary\770057281.wem
