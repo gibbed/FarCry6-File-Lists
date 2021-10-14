@@ -1,4 +1,4 @@
-; 21919/30870 (71%)
+; 21939/30870 (71%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
@@ -34,9 +34,27 @@ animations\cinematics\assaults\aslt01\aslt01_debrief\aslt01_debrief_coplayer_v02
 animations\cinematics\assaults\aslt01\aslt01_debrief\aslt01_debrief_driver_v02.mab
 animations\cinematics\assaults\aslt01\aslt01_debrief\aslt01_debrief_player_v02.mab
 animations\cinematics\assaults\aslt06\aslt06_brief\aslt06_shot_a_kayholderface_v001.dpax
+domino\library\operations\lib_aslt_oldchest.lib_aslt_oldchest.debug.lua
+domino\library\operations\lib_aslt_oldchest.lib_aslt_oldchest.lua
+domino\library\operations\lib_aslt_radiocallmanager.lib_aslt_startcalldialogueonlookatonlycompoundcarrier.debug.lua
+domino\library\operations\lib_aslt_radiocallmanager.lib_aslt_startcalldialogueonlookatonlycompoundcarrier.lua
+domino\library\operations\lib_aslt_specopsevent.lib_aslt_specops.debug.lua
+domino\library\operations\lib_aslt_specopsevent.lib_aslt_specops.lua
+domino\library\operations\lib_ops_safe_listeners.ops_lookat_listener.debug.lua
+domino\library\operations\lib_ops_safe_listeners.ops_lookat_listener.lua
 domino\system\ai\encounterproximitylistener_v2.lua
+domino\system\operations\setassaultspecopsprogress.lua
+domino\system\universalholdinteractionlistener.lua
+domino\user\fc6_ops\aslt_prefabs\prefab_aslt_cooling_station.prefab_aslt_cooling_station.debug.lua
 domino\user\fc6_ops\aslt_prefabs\prefab_aslt_cooling_station.prefab_aslt_cooling_station.lua
+domino\user\fc6_ops\aslt_replayabilitymissions\aslt_oldchest.aslt_oldchest.debug.lua
+domino\user\fc6_ops\aslt_replayabilitymissions\aslt_oldchest.aslt_oldchest.lua
+domino\user\fc6_ops\aslt_replayabilitymissions\aslt_specops.aslt_specops.debug.lua
+domino\user\fc6_ops\aslt_replayabilitymissions\aslt_specops.aslt_specops.lua
+domino\user\gym_encounters\civiliansteponrake.civiliansteponrake.debug.lua
 domino\user\gym_encounters\civiliansteponrake.civiliansteponrake.lua
+domino\user\gym_senge\enc_convotrigger.enc_convotrigger.debug.lua
+domino\user\gym_senge\enc_convotrigger.enc_convotrigger.lua
 entityarchetypeslibrary\7791965249383.ark.fcb
 entityarchetypeslibrary\7798666802486.ark.fcb
 entityarchetypeslibrary\7811565017349.ark.fcb
@@ -417,6 +435,8 @@ entityarchetypeslibrary\9015497726784393.ark.fcb
 entityarchetypeslibrary\9015499077282019.ark.fcb
 entityarchetypeslibrary\9015521098030855.ark.fcb
 fc6_aslt01.dbt.fcb
+fctber_dlc.rcache
+fctber_dlc_depload.dat
 generated\worlds\fc6_aslt01\clusterresourceslibrary.fcb
 generated\worlds\fc6_aslt01\encounterslibrary.fcb
 generated\worlds\fc6_aslt01\entitylibrarynamestoresid.fcb
