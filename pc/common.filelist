@@ -1,4 +1,4 @@
-; 7643/18545 (41%)
+; 7644/18545 (41%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -2940,6 +2940,7 @@ ui\tetra\textures\hud\weaponicons\tx_icon_lmg_mg21.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_lmg_rpd.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_1911.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_flintlock.xbt
+ui\tetra\textures\hud\weaponicons\tx_icon_pistol_m9.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_markvi.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_mpm.xbt
 ui\tetra\textures\hud\weaponicons\tx_icon_pistol_p08.xbt

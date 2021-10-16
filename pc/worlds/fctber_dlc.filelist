@@ -1,4 +1,4 @@
-; 21939/30870 (71%)
+; 21940/30870 (71%)
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.markup.bin
 animations\assaults\gp_heatbox\heatbox_holstered_01.mab
@@ -17831,6 +17831,7 @@ graphics\_materials\rjabonitalla-m-20190615180112.material.bin
 graphics\_materials\rjabonitalla-m-20190617134945.material.bin
 graphics\_materials\rjabonitalla-m-20190619084047.material.bin
 graphics\_materials\rjabonitalla-m-20190619084048.material.bin
+graphics\_materials\rjabonitalla-m-20190619084049.material.bin
 graphics\_materials\rjabonitalla-m-20191111141543.material.bin
 graphics\_materials\rjabonitalla-m-20191111141544.material.bin
 graphics\_materials\rjabonitalla-m-20191111141545.material.bin
