@@ -1,4 +1,4 @@
-; 20401/20409 (99%)
+; 20403/20409 (99%)
 ; 1717 not in parent
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_b.xbt
 graphics\__fct_graphics\_characters\clothing\bottom\fct_bot_plr_m_pants_01\fct_bot_plr_tacticalexplosionpants_01_u_b_mips.xbt
@@ -13336,6 +13336,8 @@ graphics\weapons\_textures\attachments\charms\baseball glove\wpn_att_charm_baseb
 graphics\weapons\_textures\attachments\charms\baseball glove\wpn_att_charm_baseballglove_n_mips.xbt
 graphics\weapons\_textures\attachments\charms\baseball glove\wpn_att_charm_baseballglove_um.xbt
 graphics\weapons\_textures\attachments\charms\baseball glove\wpn_att_charm_baseballglove_um_mips.xbt
+graphics\weapons\_textures\attachments\charms\baseball hardcap\wpn_att_charm_baseballhardcap_b_mips.xbt
+graphics\weapons\_textures\attachments\charms\baseball hardcap\wpn_att_charm_baseballhardcap_um_mips.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_b.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_b_mips.xbt
 graphics\weapons\_textures\attachments\charms\beaker\wpn_att_charm_beaker_mat.xbt

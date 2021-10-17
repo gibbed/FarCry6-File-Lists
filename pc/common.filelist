@@ -1,4 +1,4 @@
-; 7644/18545 (41%)
+; 7753/18545 (41%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -253,6 +253,47 @@ domino\system\lualibraries\lualibevents.lua
 domino\system\lualibraries\lualibfire.lua
 domino\system\lualibraries\lualibmath.lua
 domino\system\lualibraries\lualibstateless.lua
+drive\2cab_classic.handling.bin
+drive\2cab_classic_fpc.handling.bin
+drive\2cab_classic_signature.handling.bin
+drive\2cab_classic_tpc.handling.bin
+drive\4cab.handling.bin
+drive\4cab_fpc.handling.bin
+drive\4cab_tpc.handling.bin
+drive\belair.handling.bin
+drive\belair_fpc.handling.bin
+drive\belair_tpc.handling.bin
+drive\cargo.handling.bin
+drive\cargo_fpc.handling.bin
+drive\cargo_tpc.handling.bin
+drive\classic1.handling.bin
+drive\classic1_tpc.handling.bin
+drive\classic2.handling.bin
+drive\classic2_tpc.handling.bin
+drive\classic3.handling.bin
+drive\classic3_tpc.handling.bin
+drive\heavy.handling.bin
+drive\heavy_fpc.handling.bin
+drive\heavy_tpc.handling.bin
+drive\jetski.handling.bin
+drive\jetski_fpc.handling.bin
+drive\jetski_tpc.handling.bin
+drive\plane.handling.bin
+drive\plane_fpc.handling.bin
+drive\plane_tpc.handling.bin
+drive\plane2.handling.bin
+drive\plane2_fpc.handling.bin
+drive\plane2_tpc.handling.bin
+drive\quadbike.handling.bin
+drive\quadbike_tpc.handling.bin
+drive\tankdefault.handling.bin
+drive\van.handling.bin
+drive\van_fpc.handling.bin
+drive\van_tpc.handling.bin
+drive\veh_buggy_signature.handling.bin
+drive\zodiac.handling.bin
+drive\zodiac_fpc.handling.bin
+drive\zodiac_tpc.handling.bin
 engine\gamemodes\gamemodesconfig.xml
 engine\gamemodes\services-config.json
 engine\oceanconfig.xml
@@ -3192,6 +3233,14 @@ ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_i
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_recruits_60.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_wait_40.xbt
 ui\tetra\textures\minigames\guerrillacolumns\august.2020\gc_ui_cut_36\tetra_gc_icon_wounded_32.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_01.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_02.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_03.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_04.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_05.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_06.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_07.xbt
+ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leader_big_photoes\tetra_gc_big_illustation_photo_leader_08.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leaders_portret_img\tetra_gc_hud_leader_img_1.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leaders_portret_img\tetra_gc_hud_leader_img_5.xbt
 ui\tetra\textures\minigames\guerrillacolumns\march.2020\leader\leaders_portret_img\tetra_gc_hud_leader_img_6.xbt
@@ -3497,6 +3546,9 @@ ui\tetra_dlc\vaas\textures\gearicons\footgear\fct_gsho_plr_footgear_00_u_dlc_vaa
 ui\tetra_dlc\vaas\textures\gearicons\headgear\fct_ghdg_plr_headgear_00_u_dlc_vaas.xbt
 ui\tetra_dlc\vaas\textures\gearicons\leggear\fct_gbot_plr_leggear_00_u_dlc_vaas.xbt
 ui\tetra_dlc\vaas\textures\gearicons\wristgear\fct_wst_plr_bracelet_00_dlc_vaas.xbt
+ui\tetra_dlc\vaas\textures\menu\ingame\armoury\weapon blueprint\tx_large_bp_pistol_dlc_vaas.xbt
+ui\tetra_dlc\vaas\textures\menu\ingame\armoury\weapon blueprint\tx_large_bp_smg_dlc_vaas.xbt
+ui\tetra_dlc\vaas\textures\menu\ingame\armoury\weapon blueprint\tx_large_bp_sniper_dlc_vaas.xbt
 ui\tetra_dlc\video\dlc_joseph_mirror.bik
 ui\tetra_dlc\video\dlc_pagan_mirror.bik
 ui\tetra_dlc\video\dlc_vaas_mirror.bik
@@ -4588,6 +4640,7 @@ ui\zeta\phoenix\sources\images\fpsgraph.png_677c3615-4d42-4346-9376-efe4c7b0d00c
 ui\zeta\phoenix\sources\images\glow.png_fd71c7e5-6cd9-42ee-b06c-1eb8771aed02.spx
 ui\zeta\phoenix\sources\images\graph_mask.png_a4b77f9b-0c87-4dca-9418-467866402098.spx
 ui\zeta\phoenix\sources\images\green_bg_requirements.png_c3e061c7-2ea6-41d6-a6e0-43ffb72f05ba.spx
+ui\zeta\phoenix\sources\images\health_syringe.png_5ca810ce-ee2a-42c0-9c60-b8b50bd4188e.spx
 ui\zeta\phoenix\sources\images\highlight_2x1.png_4a1ee9c5-0e76-46ab-93e6-6c624a5b341a.spx
 ui\zeta\phoenix\sources\images\highlight_owned.png_1ab88e77-4a03-44aa-b313-de7590ad32a6.spx
 ui\zeta\phoenix\sources\images\hud_mission_tracker_checkbox.png_cf6634da-7555-40c3-9fc6-31e5e6c588b3.spx
@@ -4618,7 +4671,10 @@ ui\zeta\phoenix\sources\images\large_circular_progress_bar_background.png_88e83d
 ui\zeta\phoenix\sources\images\large_circular_progress_bar_left.png_c7767e74-da2b-4efa-bbfe-8993026295dc.spx
 ui\zeta\phoenix\sources\images\large_circular_progress_bar_mask_full.png_addac795-903e-40fc-8f5c-12459d394185.spx
 ui\zeta\phoenix\sources\images\large_circular_progress_bar_right.png_63b6c522-79da-4324-8c2c-08f015bb4660.spx
+ui\zeta\phoenix\sources\images\largepaintswish.png_7bc917d3-e79a-4ec5-b59a-8edbdd9e456c.spx
+ui\zeta\phoenix\sources\images\leader_folder_bg.png_c295bbed-b923-46a4-adab-c0ba19ab6eb3.spx
 ui\zeta\phoenix\sources\images\lock_icon_store.png_b5fee9bc-15a1-4871-a9f8-bd32aa9daa9e.spx
+ui\zeta\phoenix\sources\images\locked_leader_bg.png_5e7f6d1c-0ec8-4cfb-ace2-73cabf02c363.spx
 ui\zeta\phoenix\sources\images\mask.png_c22207d9-137f-4910-9e7e-ef8d4875458f.spx
 ui\zeta\phoenix\sources\images\mask_1712x968.png_e41f6fba-91e0-47a7-bf21-a5a54c297909.spx
 ui\zeta\phoenix\sources\images\menu_background_1.png_4d470ba4-48e6-4a40-8752-de73aaa11cc0.spx
@@ -4696,7 +4752,10 @@ ui\zeta\phoenix\sources\images\ps5_sticker_left.png_c538450d-dc9e-4d07-b24a-1760
 ui\zeta\phoenix\sources\images\ps5_sticker_right.png_9bf04ff6-9ebb-4a8a-b76e-315c53844e3a.spx
 ui\zeta\phoenix\sources\images\ps5_sticker_up.png_f2d13949-15f8-4145-8e42-cbcdc940afb0.spx
 ui\zeta\phoenix\sources\images\ps5_touch.png_7cff2b83-dc81-4748-b78e-902bbded8ba4.spx
+ui\zeta\phoenix\sources\images\rarity1_common.png_324ecd23-41fa-40fa-aab7-d2217d4a6c95.spx
 ui\zeta\phoenix\sources\images\report_fps_graph.png_03073d00-14ea-485a-9032-8ad3b3deca10.spx
+ui\zeta\phoenix\sources\images\reward_icon_hard.png_8e46a2a0-3376-430e-ad23-05b5d803f6ee.spx
+ui\zeta\phoenix\sources\images\reward_icon_live.png_95c1d628-6fcd-420f-9356-fc4c7968096a.spx
 ui\zeta\phoenix\sources\images\rooster_icon_1_com_d.png_84ddcacf-1770-4a33-8107-8b2bccb7d4e5.spx
 ui\zeta\phoenix\sources\images\rooster_icon_1_com_d_inactive.png_f55427fd-9ccf-4d31-bf31-adda114df315.spx
 ui\zeta\phoenix\sources\images\rooster_icon_7_rare_d.png_a76b00a1-468c-4735-a482-751ded838566.spx
@@ -4881,6 +4940,7 @@ ui\zeta\phoenix\sources\images\tx_bg_strip_tooltipkey_mission_dlc_joseph.png_145
 ui\zeta\phoenix\sources\images\tx_bg_strip_tooltipkey_mission_dlc_pagan.png_9af72923-76f6-49c7-8708-9b9b18cb29d9.spx
 ui\zeta\phoenix\sources\images\tx_bg_strip_tooltipkey_mission_dlc_vaas.png_45f4ab9a-20a9-4cee-8d7e-a0f6a3cec7c3.spx
 ui\zeta\phoenix\sources\images\tx_bg_strip_top.png_1f6b6744-436d-4dad-8daa-70904e3fb42c.spx
+ui\zeta\phoenix\sources\images\tx_bg_strip_top_big.png_c099f888-1a26-42ad-aacd-6f5f583d91cd.spx
 ui\zeta\phoenix\sources\images\tx_bg_strip_top_big_front.png_a21eb304-f151-4e2d-b705-563df2f65411.spx
 ui\zeta\phoenix\sources\images\tx_bloodanimal_1.png_910f68bd-938c-4eb9-b0ef-dfb5d21f632b.spx
 ui\zeta\phoenix\sources\images\tx_bloodanimal_2.png_16ac089c-d4f0-484b-a54a-ef8c7434e5f7.spx
@@ -4888,7 +4948,9 @@ ui\zeta\phoenix\sources\images\tx_bloodhurtsplatter.png_143be141-ca06-40c2-83a0-
 ui\zeta\phoenix\sources\images\tx_bloodhurtsplatter_1.png_ded286e7-c93a-4e74-81ec-abf52ec6e5d4.spx
 ui\zeta\phoenix\sources\images\tx_bloodhurtsplatter_2.png_cb0c515e-5d0f-4e6f-bb63-1a4ebc64bd7b.spx
 ui\zeta\phoenix\sources\images\tx_bloodhurtsplatter_3.png_c5c282df-ee7d-4379-a93e-2d71f6766349.spx
+ui\zeta\phoenix\sources\images\tx_blueprint_bg_dlc.png_f70bb7f8-ed6b-4f66-b757-6f9848881624.spx
 ui\zeta\phoenix\sources\images\tx_btnicon_uclub.png_7b574061-77bf-4b8f-9bef-afd37392dbe6.spx
+ui\zeta\phoenix\sources\images\tx_button_160x58_bg.png_d0a069c3-02e0-4f38-b584-4e6a2c228cd3.spx
 ui\zeta\phoenix\sources\images\tx_button1.png_2be396d0-4433-4371-8dde-1124b5cf5392.spx
 ui\zeta\phoenix\sources\images\tx_camera_crosshair.png_dbe7205d-2b89-4c6c-b52b-d6d84bc982e2.spx
 ui\zeta\phoenix\sources\images\tx_camera_crosshair_centre.png_547bc164-db11-4786-9ea7-f5f287dd4b55.spx
@@ -4898,6 +4960,7 @@ ui\zeta\phoenix\sources\images\tx_camera_modeslider.png_c3b0186a-58e6-4711-8fba-
 ui\zeta\phoenix\sources\images\tx_camera_modesliderbg.png_c0ef5747-4b51-43c7-97b0-5c6a607609bb.spx
 ui\zeta\phoenix\sources\images\tx_camera_recordbutton_inner.png_fc1c6445-f7c4-44b7-8787-93a9c75dd32c.spx
 ui\zeta\phoenix\sources\images\tx_camera_recordbutton_outer.png_a0efdf3e-a994-40b3-9c5c-2df95505fa05.spx
+ui\zeta\phoenix\sources\images\tx_camera_timerbg.png_d9b33b39-7e08-4aec-9726-84809af0b47d.spx
 ui\zeta\phoenix\sources\images\tx_camera_zoombar.png_132b5cd2-d6e7-416e-957e-2d92e98b307c.spx
 ui\zeta\phoenix\sources\images\tx_camera_zoomslider.png_73f487a4-cada-4b34-860d-85ae64126cac.spx
 ui\zeta\phoenix\sources\images\tx_cameraoverlay.png_db0da64c-a7d4-4404-8248-28030149b4d3.spx
@@ -4926,6 +4989,8 @@ ui\zeta\phoenix\sources\images\tx_cursor_nav_frame.png_900f8dc8-4296-435e-a491-0
 ui\zeta\phoenix\sources\images\tx_cursor_nav_inner_fill.png_065c8acc-6530-4b13-91a9-a1b11c46b578.spx
 ui\zeta\phoenix\sources\images\tx_cursor_nav_inner_glow.png_0356e97b-8f72-4cc6-8c9c-f6da1dcab060.spx
 ui\zeta\phoenix\sources\images\tx_cursor_pressed_radial.png_2b12e1c6-c96c-48f0-95b2-08f71794d885.spx
+ui\zeta\phoenix\sources\images\tx_curvy_arrow.png_817c9c42-d543-48b2-bd7e-9e84761d7ab1.spx
+ui\zeta\phoenix\sources\images\tx_details_arrow.png_637c7a44-5cf6-4527-98bd-645948833bbb.spx
 ui\zeta\phoenix\sources\images\tx_details_gearpoints_icon.png_536c868b-5de3-4277-a127-3ef6539478e8.spx
 ui\zeta\phoenix\sources\images\tx_details_gge_locked.png_1d396205-0623-4d91-b542-378e2512dd8c.spx
 ui\zeta\phoenix\sources\images\tx_details_gp_icon.png_367a0ae8-e846-48ea-a126-0a9320ff23fe.spx
@@ -4939,6 +5004,8 @@ ui\zeta\phoenix\sources\images\tx_difficulty_locked_icon.png_0b3dea3d-af83-4f08-
 ui\zeta\phoenix\sources\images\tx_difficulty_locked_icon.png_4295883a-54f9-42bf-a5c8-01161ba60ef6.spx
 ui\zeta\phoenix\sources\images\tx_difficultyselect_button1.png_19362ea0-fd4a-4f12-a58e-a9ba80d0832a.spx
 ui\zeta\phoenix\sources\images\tx_difficultyselect_button2.png_0c16b10f-811c-478c-8386-5f4fcc9cba7d.spx
+ui\zeta\phoenix\sources\images\tx_distance_bar.png_a1e39cf1-634c-41f8-9a0c-5c0756885e1c.spx
+ui\zeta\phoenix\sources\images\tx_divider_592px.png_6680df58-bd0e-4262-988c-215bc149add3.spx
 ui\zeta\phoenix\sources\images\tx_downstate_background.png_1af2c333-0603-4411-80dd-48c5971d5d96.spx
 ui\zeta\phoenix\sources\images\tx_downstate_halo.png_b3af6b72-7fe9-4a48-a4b7-8bba1cdda46f.spx
 ui\zeta\phoenix\sources\images\tx_downstate_healthicon.png_5b3e3d55-c82d-46a6-a878-b1a5dcbf8318.spx
@@ -4972,6 +5039,7 @@ ui\zeta\phoenix\sources\images\tx_gear_equipped_dark.png_4c9e98c2-7ad7-4040-aad5
 ui\zeta\phoenix\sources\images\tx_gear_equipped_dark_dlc_joseph.png_dcaf7deb-22ac-47f5-a5a8-138c903ad885.spx
 ui\zeta\phoenix\sources\images\tx_gear_equipped_dark_dlc_pagan.png_5cfd4ff1-73d6-47f1-b30d-4a0c029e5b07.spx
 ui\zeta\phoenix\sources\images\tx_gear_equipped_dark_dlc_vaas.png_a9c0066d-258d-4d45-b603-2d60fb356118.spx
+ui\zeta\phoenix\sources\images\tx_gear_gearslot_bg.png_263ee873-a646-4820-b9fc-3e818321dcee.spx
 ui\zeta\phoenix\sources\images\tx_gear_gearslot_gearscorebg.png_903a958c-c496-4367-99ec-06e995b5a650.spx
 ui\zeta\phoenix\sources\images\tx_gear_icon_buff.png_ff5568e2-87f5-4226-905f-f14f73805759.spx
 ui\zeta\phoenix\sources\images\tx_gear_icon_equipment.png_3bc7595f-7061-4b98-b463-d401725b0f7e.spx
@@ -4999,6 +5067,7 @@ ui\zeta\phoenix\sources\images\tx_guns.png_a5834551-73a7-485b-b2d3-15741afc06a2.
 ui\zeta\phoenix\sources\images\tx_headerbg_01.png_a40fb16b-599b-4a30-89c4-9fa0ea36f66c.spx
 ui\zeta\phoenix\sources\images\tx_headerbg_02.png_a9409255-72c4-438b-b9a2-75cb602469d2.spx
 ui\zeta\phoenix\sources\images\tx_headgear_placeholder.png_ee10846c-08b4-4893-90db-798efb76234a.spx
+ui\zeta\phoenix\sources\images\tx_healthbarbg.png_2ff08c66-6d6f-44ac-b4df-1dc65ea3e2c7.spx
 ui\zeta\phoenix\sources\images\tx_herovehicle_modelinfo_background.png_9f1fd0ce-38c0-4372-91c3-0a2809453812.spx
 ui\zeta\phoenix\sources\images\tx_herovehiclehud_nothingequipped.png_6e07be31-e322-4859-9bcf-07202c96593d.spx
 ui\zeta\phoenix\sources\images\tx_hud_ability1border.png_f1c1042d-b0b4-4dda-ad7f-cc2bb1b3fc01.spx
@@ -5022,6 +5091,7 @@ ui\zeta\phoenix\sources\images\tx_hud_detectionmask.png_a8c40911-37dd-4e92-9d17-
 ui\zeta\phoenix\sources\images\tx_hud_difficulty_bg.png_6a77b6c4-768c-4c63-ac00-82e2459b28f4.spx
 ui\zeta\phoenix\sources\images\tx_hud_difficulty_indicatorbar.png_098f4062-ba00-4211-a2cc-e34256e46f6b.spx
 ui\zeta\phoenix\sources\images\tx_hud_directionmarker.png_b51996ea-da35-4190-9b96-74c3612bde8e.spx
+ui\zeta\phoenix\sources\images\tx_hud_discoverybg2.png_a756605f-9826-4123-b834-4b2521d061f9.spx
 ui\zeta\phoenix\sources\images\tx_hud_dynamite.png_4f5b1915-8422-4c03-bf37-073bfaff40d8.spx
 ui\zeta\phoenix\sources\images\tx_hud_ffh_icon.png_958cabe2-e627-4ed3-8cbe-819ffb2ed394.spx
 ui\zeta\phoenix\sources\images\tx_hud_goldenmarker.png_3af96384-6e45-48cb-a4aa-2fc3eedb9e3f.spx
@@ -5030,11 +5100,13 @@ ui\zeta\phoenix\sources\images\tx_hud_heatlevel_barfill.png_67919966-7479-4b85-b
 ui\zeta\phoenix\sources\images\tx_hud_heatlevel_icon.png_879b3b5f-57c3-42a6-bc3f-5214a0248964.spx
 ui\zeta\phoenix\sources\images\tx_hud_heatlevel_ringthick.png_09474ea6-9d51-4856-87dd-f0988bf69ffb.spx
 ui\zeta\phoenix\sources\images\tx_hud_heatlevel_swipebig.png_ab47bd02-f2fb-4c82-bbe6-572f913b6faa.spx
+ui\zeta\phoenix\sources\images\tx_hud_highimpactbg.png_c6e2ad67-8b75-48c0-b7b3-8f7fdc435cbe.spx
 ui\zeta\phoenix\sources\images\tx_hud_icon_enemyarchetype_default.png_0e84a9c2-c31a-48f0-b556-1392c9349ddf.spx
 ui\zeta\phoenix\sources\images\tx_hud_icon_enemyarchetype_medic.png_06ba0f3f-3ba9-4b4f-a6bb-3f8297fb75e1.spx
 ui\zeta\phoenix\sources\images\tx_hud_icon_super_firebomb.png_3b17c82d-38ef-4948-8c2a-2d2a2c872a35.spx
 ui\zeta\phoenix\sources\images\tx_hud_icon_throwable_grenade.png_42d76a33-46de-4198-af53-708743f31334.spx
 ui\zeta\phoenix\sources\images\tx_hud_icon_throwable_rock.png_5642e888-b95e-496d-a007-14b065bc0325.spx
+ui\zeta\phoenix\sources\images\tx_hud_keypoi_pagan.png_8665a327-247d-4643-b286-3c66379a59b3.spx
 ui\zeta\phoenix\sources\images\tx_hud_markbg.png_f9c3875f-b161-4321-b644-16974018c36e.spx
 ui\zeta\phoenix\sources\images\tx_hud_markborder.png_44975270-6248-4b07-a8a8-47a3131cff1d.spx
 ui\zeta\phoenix\sources\images\tx_hud_missionheader_iconcheck.png_6743fe59-149e-4351-aa80-97b3af36eb22.spx
@@ -5066,6 +5138,8 @@ ui\zeta\phoenix\sources\images\tx_hud_radarenemyblob.png_f9b145cc-ced3-40e4-af81
 ui\zeta\phoenix\sources\images\tx_hud_radarmask.png_4808128b-6019-4c97-8110-4de268819814.spx
 ui\zeta\phoenix\sources\images\tx_hud_radarringglow.png_ad057df3-bcca-4fc5-847d-dc744e9aaf93.spx
 ui\zeta\phoenix\sources\images\tx_hud_radarringglowhatch.png_c37a45d6-fbe5-49ab-9a22-3a29a0a247bc.spx
+ui\zeta\phoenix\sources\images\tx_hud_regionbg.png_da7c01f1-427a-4725-abde-cf90daf18848.spx
+ui\zeta\phoenix\sources\images\tx_hud_resourcebg.png_168f8157-d4f0-4092-9231-4b1691ada41c.spx
 ui\zeta\phoenix\sources\images\tx_hud_reticle_bow.png_52696e38-ac92-498e-88ad-e131ed5546f0.spx
 ui\zeta\phoenix\sources\images\tx_hud_reticle_bow2.png_f3391358-e603-4481-9258-4af570cf5006.spx
 ui\zeta\phoenix\sources\images\tx_hud_reticle_critical_hitmarker.png_1ea85ddd-72e0-4cb7-9858-d86e8ea16cbf.spx
@@ -5085,8 +5159,13 @@ ui\zeta\phoenix\sources\images\tx_hud_reticle_sniper_h.png_fe153232-0b99-400e-a6
 ui\zeta\phoenix\sources\images\tx_hud_reticle_sniper_v.png_c69229b1-dcc5-4460-88fc-b1201858c28c.spx
 ui\zeta\phoenix\sources\images\tx_hud_selfhealcircle.png_2fe855ca-644c-4120-9457-a8d042cc943f.spx
 ui\zeta\phoenix\sources\images\tx_hud_selfhealcircleborder.png_b082e000-bff1-4274-99c7-c6c90710a2be.spx
+ui\zeta\phoenix\sources\images\tx_hud_selfhealicon.png_4895df71-41ab-4d0d-bcf9-40f12f77a9fb.spx
+ui\zeta\phoenix\sources\images\tx_hud_super_bg.png_b902c363-fbe6-4dda-8bda-86dd99f87ebc.spx
 ui\zeta\phoenix\sources\images\tx_hud_superdistress.png_ef601703-626a-43d4-aa9e-23d05c9bc461.spx
 ui\zeta\phoenix\sources\images\tx_hud_warningexclamationmark.png_ff8bdc2a-ede6-4ddd-bc3c-a7a9f7a44a4f.spx
+ui\zeta\phoenix\sources\images\tx_hud_wtf_joseph.png_d2b2d5e1-7e7d-4088-9690-3ed386110bed.spx
+ui\zeta\phoenix\sources\images\tx_hud_wtf_pagan.png_65fd0d4b-5303-4ddb-91ff-2a818f89aac1.spx
+ui\zeta\phoenix\sources\images\tx_hud_wtf_vaas.png_e3bae8b2-f2ae-47d9-8b81-f1fc356132eb.spx
 ui\zeta\phoenix\sources\images\tx_hud_xmark.png_53aad8a2-dd25-458d-b117-dc7f2644a1fc.spx
 ui\zeta\phoenix\sources\images\tx_icon_button_store.png_581a23f6-07c7-4ea5-9109-bda6d6521867.spx
 ui\zeta\phoenix\sources\images\tx_icon_clouddownload.png_6a223d4f-110c-49fe-8f88-2e210b33d4f1.spx
@@ -5107,6 +5186,9 @@ ui\zeta\phoenix\sources\images\tx_icon_tradebutton.png_b70828b7-0bb4-4089-ad52-b
 ui\zeta\phoenix\sources\images\tx_key_0.png_1811566c-f1f4-4f79-9985-ab6384274b4a.spx
 ui\zeta\phoenix\sources\images\tx_key_15.png_e03ac7d7-a808-4c23-bcba-ee424903eb29.spx
 ui\zeta\phoenix\sources\images\tx_key_33.png_ed38b161-6633-45bb-ab59-40da786c3b00.spx
+ui\zeta\phoenix\sources\images\tx_keypiece_pagan_1.png_d590b631-7773-4d2b-9df5-cacbfd2771fe.spx
+ui\zeta\phoenix\sources\images\tx_keypiece_pagan_2.png_68528c49-0e5e-4859-b303-fd1bb12d5255.spx
+ui\zeta\phoenix\sources\images\tx_keypiece_pagan_3.png_87aba7bd-dc8f-42ff-82e9-84eca086eea1.spx
 ui\zeta\phoenix\sources\images\tx_knife1.png_83ff5459-5a08-4a28-973f-9e7a10f3575b.spx
 ui\zeta\phoenix\sources\images\tx_knife2.png_96b4af9a-7e72-4614-a055-e1f4f52fc2fe.spx
 ui\zeta\phoenix\sources\images\tx_largelockedicon.png_5ed1cb6c-ffd3-40f6-9905-aeeb9cd8d5db.spx
@@ -5128,6 +5210,7 @@ ui\zeta\phoenix\sources\images\tx_lockon.png_99b07616-a169-42df-bfa5-8564fc20da2
 ui\zeta\phoenix\sources\images\tx_m_lb.png_c5fe5e3a-fc61-4ff3-95aa-3be464688191.spx
 ui\zeta\phoenix\sources\images\tx_mainmenu_saveslot_iconplus.png_231b7e03-d3db-4bde-87ee-ceb711e0d4d9.spx
 ui\zeta\phoenix\sources\images\tx_map_compass.png_9f790eed-a4db-4a96-bff5-51bd7ce9c9dc.spx
+ui\zeta\phoenix\sources\images\tx_map_compass_vaas.png_dbe70816-a502-4fff-85bb-e9851a1ed683.spx
 ui\zeta\phoenix\sources\images\tx_map_labelsmask.png_ad93c24f-aaea-47ed-88c1-b75977e5dc65.spx
 ui\zeta\phoenix\sources\images\tx_map_libertad_intel_giver.png_7e3f599c-cf01-42dc-9ec6-ae500e327ace.spx
 ui\zeta\phoenix\sources\images\tx_map_missionmarkerarea.png_bc0af2f3-e817-43be-aa7e-cbcfd7136fb7.spx
@@ -5164,9 +5247,12 @@ ui\zeta\phoenix\sources\images\tx_new_notification_dlc.png_13c1babb-b72e-4e29-9c
 ui\zeta\phoenix\sources\images\tx_new_star.png_800fe46e-8f0e-4248-8c59-64fc39c08dc6.spx
 ui\zeta\phoenix\sources\images\tx_newstile_placeholder.png_9074f6cd-2063-4663-b1ed-dc513b393ace.spx
 ui\zeta\phoenix\sources\images\tx_nexus_bg_gradient.png_d434dd04-8642-4c80-8d3c-5800e3c4f80b.spx
+ui\zeta\phoenix\sources\images\tx_nexus_bg_rural.png_7b57bd4a-2d1c-40bc-bdb1-6047af9becb0.spx
 ui\zeta\phoenix\sources\images\tx_nexus_missiongiver_buttonunderline.png_a567d077-3da7-456f-b91a-2db37a553415.spx
 ui\zeta\phoenix\sources\images\tx_nexus_missiongiver_buttonunderline_new.png_41007bda-7816-4e2f-b88e-1787aacb0202.spx
 ui\zeta\phoenix\sources\images\tx_nexus_missiongiver_reward_bg.png_45b6092f-9407-4ca1-b3c0-69463a0a10ab.spx
+ui\zeta\phoenix\sources\images\tx_notes_bottomline.png_5369bda9-3d6a-4bb2-b040-50dd01679db5.spx
+ui\zeta\phoenix\sources\images\tx_notes_topline.png_b3ff897c-d2dc-4886-9d78-0378499210ac.spx
 ui\zeta\phoenix\sources\images\tx_notif_intel_giver.png_87f469a2-8561-4177-86c0-15d9c4f0e9eb.spx
 ui\zeta\phoenix\sources\images\tx_notifbody_bottomgrungebg1.png_23ff5516-be50-4775-82c6-711be092d400.spx
 ui\zeta\phoenix\sources\images\tx_notifbody_bottomgrungebg2.png_a41177ab-48b0-441a-bb73-3a9369403946.spx
@@ -5187,6 +5273,7 @@ ui\zeta\phoenix\sources\images\tx_ops_icon_valves.png_8435810e-c0ab-4d46-ab4e-5c
 ui\zeta\phoenix\sources\images\tx_ops_valvecircularbar.png_214a8007-521b-428d-8528-013d0215c92e.spx
 ui\zeta\phoenix\sources\images\tx_ops_valvecircularbar_left.png_a8d59f0e-734a-4b07-a7e9-88ea916940e8.spx
 ui\zeta\phoenix\sources\images\tx_ops_valvecircularbar_right.png_ef5dd1da-8308-42dd-9aa6-2816593b4b96.spx
+ui\zeta\phoenix\sources\images\tx_options_icon.png_b0bb974b-4198-409a-82a7-9000b40a8281.spx
 ui\zeta\phoenix\sources\images\tx_outpostceleb_iconbottom.png_f3799965-d59f-47d3-9251-acff57cf9836.spx
 ui\zeta\phoenix\sources\images\tx_outpostceleb_icontop.png_671fa701-6089-4428-9f02-bd81754bf79b.spx
 ui\zeta\phoenix\sources\images\tx_phone_cracks.png_c766d232-ad62-473a-a791-05f5970e879d.spx
@@ -5215,14 +5302,19 @@ ui\zeta\phoenix\sources\images\tx_playerrank_invalid.png_fa82475b-eba9-4bae-8e44
 ui\zeta\phoenix\sources\images\tx_playerrank_small_placeholder.png_dc4799e3-6cd2-4703-8649-cf71464f25e2.spx
 ui\zeta\phoenix\sources\images\tx_popout_icon_.png_67d3ef72-be8e-499b-8ca0-43333f26bf49.spx
 ui\zeta\phoenix\sources\images\tx_popupbgtop.png_79a14694-15df-4466-b35d-b6aee5471c71.spx
+ui\zeta\phoenix\sources\images\tx_power_heart.png_a1edab4a-f7e4-4b83-89db-276ad0584da0.spx
+ui\zeta\phoenix\sources\images\tx_powerbarbg_large.png_9cb5c635-2eee-4d17-b3d6-ee55b26275d3.spx
 ui\zeta\phoenix\sources\images\tx_powerbarbg_small.png_5b8efcb1-07bd-4d18-a68b-edb362065e98.spx
 ui\zeta\phoenix\sources\images\tx_powereffect000.png_872e0755-fc94-4d22-9e5f-d3a60eec0ae6.spx
 ui\zeta\phoenix\sources\images\tx_qte_button1.png_2a42994c-cfb5-455d-9935-489254c32f87.spx
 ui\zeta\phoenix\sources\images\tx_quality_star_lrg.png_56bbf1ab-8923-4be0-91a8-0510fd7479a9.spx
 ui\zeta\phoenix\sources\images\tx_quality_star_sml.png_512b6c47-9752-48d6-ae9d-aa32f362b2ab.spx
 ui\zeta\phoenix\sources\images\tx_ready_label.png_ac569c11-0b87-44f5-b443-14cd68debcd5.spx
+ui\zeta\phoenix\sources\images\tx_recharge_mix.png_1359e71c-afc7-4930-a86b-71fe1457aefb.spx
+ui\zeta\phoenix\sources\images\tx_redscratcha.png_6c9f11e2-41eb-46fd-b42c-48249b979754.spx
 ui\zeta\phoenix\sources\images\tx_repair_gauge_icon.png_febe514d-0c3b-43e4-b5ec-7c8097f31046.spx
 ui\zeta\phoenix\sources\images\tx_repair_gauge_outline.png_c9d4a67d-fcba-4406-a02c-8316bcee7fba.spx
+ui\zeta\phoenix\sources\images\tx_replay_icon.png_0e69705c-0180-4ca3-af7e-81d8f58f0a6e.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconhud_livecurrency.png_6a36645f-64b2-4ca5-b0e5-f4a9e1cfb7f8.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconhud_pesos.png_2f7fc474-10db-4e8b-aca8-ef47965159af.spx
 ui\zeta\phoenix\sources\images\tx_resources_iconlarge_hardcurrency.png_063b3373-d8c8-4b51-84b1-11cd37d3628f.spx
@@ -5239,6 +5331,9 @@ ui\zeta\phoenix\sources\images\tx_scope_vignette_border.png_40561e7f-dcbb-46c3-a
 ui\zeta\phoenix\sources\images\tx_showcontrols_background.png_0cbc7b30-5425-42c5-8293-5e67f5fba5b4.spx
 ui\zeta\phoenix\sources\images\tx_sidedarkfade.png_5fa9e036-0d97-4cba-8228-a4cd683d1a17.spx
 ui\zeta\phoenix\sources\images\tx_simplewhitesquare.png_7e207aff-d61e-451a-a3c8-7189e73dc4cd.spx
+ui\zeta\phoenix\sources\images\tx_skilllockedbg.png_2b42240e-69e1-4958-8510-4642605fd380.spx
+ui\zeta\phoenix\sources\images\tx_skilloutline.png_f4edbcad-112b-45e9-bc7a-491d5bc9bfc5.spx
+ui\zeta\phoenix\sources\images\tx_skillpointicon.png_f978b1d5-7d3b-44d3-9a3d-f365e76edf04.spx
 ui\zeta\phoenix\sources\images\tx_slotbg_n.png_5c58a603-2489-40ce-9099-c7a7fe38a799.spx
 ui\zeta\phoenix\sources\images\tx_slotbgcar.png_5e6e3dc2-0059-42a9-904e-c4a4c3e46498.spx
 ui\zeta\phoenix\sources\images\tx_slotbgfishingrod.png_0cee8f4e-cb18-4d74-9ee3-6a1c05dee0fc.spx
@@ -5248,9 +5343,11 @@ ui\zeta\phoenix\sources\images\tx_slotbgrepairtool.png_433cc5e0-8bc9-4171-a052-b
 ui\zeta\phoenix\sources\images\tx_slotbgsecondaryweapon.png_79f5abad-0c74-4ce6-8293-aebbec9fc37c.spx
 ui\zeta\phoenix\sources\images\tx_slotbgsidearm.png_d25ea19d-a70c-4be4-b008-902b1f7c1d96.spx
 ui\zeta\phoenix\sources\images\tx_slotbgunarmed.png_6ec09419-67d1-4151-86de-9652a5535e6a.spx
+ui\zeta\phoenix\sources\images\tx_small_alert_bg.png_859d302d-d2c3-44e3-a90a-e983d0645005.spx
 ui\zeta\phoenix\sources\images\tx_smallread.png_6f27f96e-7243-4d7f-9c50-f750322f4676.spx
 ui\zeta\phoenix\sources\images\tx_sms_avatar_philly.png_099dd5e7-0ae8-4ebc-b605-3e5880506623.spx
 ui\zeta\phoenix\sources\images\tx_sms_edge_background.png_cfeb7bb4-96e4-4939-95b0-72e6a5d4fb1a.spx
+ui\zeta\phoenix\sources\images\tx_social_avatar_bg.png_918fd30e-c9dd-4f1c-b198-06e0f075371c.spx
 ui\zeta\phoenix\sources\images\tx_social_icon_friends.png_fe14c1fb-d251-42ef-be72-303f43336278.spx
 ui\zeta\phoenix\sources\images\tx_social_icon_muted.png_3d7ca679-b096-4e2c-aebe-74f8524276d7.spx
 ui\zeta\phoenix\sources\images\tx_sorting_arrow.png_b0b53665-fc5d-4335-b819-63f737ea14fb.spx
@@ -5261,13 +5358,17 @@ ui\zeta\phoenix\sources\images\tx_statuseffect_iconburn.png_f4da4f48-8491-44cd-b
 ui\zeta\phoenix\sources\images\tx_statuseffecthalfcircle.png_805bb6b5-3f50-4215-9f5a-d45ac098b801.spx
 ui\zeta\phoenix\sources\images\tx_store_list_maskbottom.png_5cd95af9-7b40-4ad1-8f16-6160a727346c.spx
 ui\zeta\phoenix\sources\images\tx_store_list_masktop.png_fe80c60d-45c8-41df-a45e-c6ea2ab888df.spx
+ui\zeta\phoenix\sources\images\tx_storemsg_topline.png_26b8c718-5904-4517-8296-00d38088d20b.spx
+ui\zeta\phoenix\sources\images\tx_survivalistbg.png_08b9f29b-7fe7-4aff-ae94-920155d7776c.spx
 ui\zeta\phoenix\sources\images\tx_swishsquare1.png_af2b2d8e-9df7-459d-9858-4adfc651f16d.spx
 ui\zeta\phoenix\sources\images\tx_swishsquare1_minigames.png_5a2b95f1-968c-4896-9d89-472bd47ed88c.spx
 ui\zeta\phoenix\sources\images\tx_switcherbg.png_4e39a60c-f189-40f6-a438-d015a3612aed.spx
 ui\zeta\phoenix\sources\images\tx_tab_rifles.png_41f05a3f-b1a5-418d-8f62-35aa32fa1791.spx
 ui\zeta\phoenix\sources\images\tx_tab_underline.png_a2606adb-e413-4694-928c-6b7a679010cc.spx
 ui\zeta\phoenix\sources\images\tx_taggableicon_untrackedmission_objective.png_4f3cbdd6-c226-44c4-b770-4fa8909255dd.spx
+ui\zeta\phoenix\sources\images\tx_tagged_hostage.png_e4083f43-efe0-4435-82e6-10f4d1a0424f.spx
 ui\zeta\phoenix\sources\images\tx_tank_body.png_f2c20cd3-c02b-44c4-a926-88121a6eabdb.spx
+ui\zeta\phoenix\sources\images\tx_tank_corner.png_911e4aac-0c39-4077-8f23-7dc910503091.spx
 ui\zeta\phoenix\sources\images\tx_tank_reloadbar.png_f8c2a895-0be4-4e2c-a7bb-e3cd4cc8ff6b.spx
 ui\zeta\phoenix\sources\images\tx_tank_reticle_cannon.png_a6246798-5cbb-45d8-878f-8a1ac654631a.spx
 ui\zeta\phoenix\sources\images\tx_tank_reticle_machinegun.png_91cf5b25-c72f-423e-9dcf-991690e14aee.spx
@@ -5297,6 +5398,8 @@ ui\zeta\phoenix\sources\images\tx_vehiclescan_checkmark.png_5763f19a-9ee6-40e1-a
 ui\zeta\phoenix\sources\images\tx_vehiclescan_cross.png_d7742f2f-7ade-4195-b8ed-9623575bd515.spx
 ui\zeta\phoenix\sources\images\tx_vehiclescan_icon.png_07875860-6a09-4879-9a17-9e28866d436d.spx
 ui\zeta\phoenix\sources\images\tx_vendoricon_big.png_165f8f40-509f-477c-a293-727a6c0fd2b4.spx
+ui\zeta\phoenix\sources\images\tx_vendortabbot.png_57709d68-bab1-4f20-bd62-c77276bd3671.spx
+ui\zeta\phoenix\sources\images\tx_vendortabtop.png_de654dc8-fe61-4849-9625-3058d782e033.spx
 ui\zeta\phoenix\sources\images\tx_watervignette.png_2e82b4c7-2e15-4dfe-8b32-cab5bdaa220e.spx
 ui\zeta\phoenix\sources\images\tx_weaponwheel_gadget_locked.png_e067384e-c885-44d2-a18f-9916a1fcc2c6.spx
 ui\zeta\phoenix\sources\images\tx_weaponwheel_gadgetbg1.png_8c84ba19-01bd-49e2-a446-b2daefad1c5f.spx
@@ -5308,6 +5411,7 @@ ui\zeta\phoenix\sources\images\tx_weaponwheel_selected.png_154db02d-b3b9-4dd6-b5
 ui\zeta\phoenix\sources\images\tx_white_32x32_gradient.png_dbcbad1f-fe9d-41c2-afc6-a77d88638d3f.spx
 ui\zeta\phoenix\sources\images\tx_white_64x64_gradient.png_5c301abb-65a3-4bd8-9b5c-903369a8bfeb.spx
 ui\zeta\phoenix\sources\images\tx_workbench_tradearrow.png_c71c00a5-72b6-440e-87f8-0adab39e6f78.spx
+ui\zeta\phoenix\sources\images\tx_workbenchbg.png_51df3ef2-e088-4efc-8e4c-3f6fed077a9e.spx
 ui\zeta\phoenix\sources\images\tx_worldescal_flagarmycorner.png_40b07d7f-b67f-4611-b0df-da37362745a4.spx
 ui\zeta\phoenix\sources\images\tx_worldescal_flagarmycrest.png_7ab577c1-801d-4476-87a6-15e656d6969c.spx
 ui\zeta\phoenix\sources\images\tx_wp_slot_bg_124_dlc_joseph.png_d6fc335a-a52d-4e84-ae6d-8ae1ca87486b.spx
@@ -5330,6 +5434,8 @@ ui\zeta\phoenix\sources\images\unofficial_xboxseries.png_20d31bf0-93bb-4470-a644
 ui\zeta\phoenix\sources\images\unofficial_xboxseries_bg.png_d0b636af-e115-420b-9b19-639c401e7420.spx
 ui\zeta\phoenix\sources\images\weapon_details_locked_icon.png_8d85b35c-2bef-4e45-b24a-ded1bb4b918d.spx
 ui\zeta\phoenix\sources\images\weapon_exploded_icon.png_03628bea-61ec-4ec6-a43d-5bb3dae664cf.spx
+ui\zeta\phoenix\sources\images\wheel-element-m.png_68de595e-e0dd-4889-a79a-3e5a9d09329c.spx
+ui\zeta\phoenix\sources\images\wheel-element-xl.png_a858b027-de5f-4d03-9267-a80cef22740d.spx
 ui\zeta\phoenix\sources\images\whitesquare.png_6d5eef44-6497-45f9-9529-d7287e084b17.spx
 ui\zeta\phoenix\sources\images\winner_label.png_b0cafa82-a1fd-4bb7-9815-e74b74f2193f.spx
 ui\zeta\phoenix\sources\images\x_fail_small.png_19a7519b-33b8-494a-b683-707e1689cb5c.spx
@@ -5802,6 +5908,9 @@ ui\zeta\phoenix\sources\textstyles\ttcommonsregular_31pt_f4271e39-e645-468d-aedb
 ui\zeta\phoenix\sources\textstyles\ttcommonsregular_34pt_a61d08b0-0e50-499f-92da-036086797aa4.spx
 ui\zeta\phoenix\sources\videos\central_region_complete_dani_f.bik_365aecf2-8125-46ba-8d30-adb6b49a4a37.spx
 ui\zeta\phoenix\sources\videos\central_region_complete_dani_m.bik_3667b190-ca7e-413a-8d86-0437809c36f2.spx
+ui\zeta\phoenix\sources\videos\dlc_joseph_mirror.bik_be31d07d-1c2e-49cc-91cb-68ece084ca56.spx
+ui\zeta\phoenix\sources\videos\dlc_pagan_mirror.bik_4806f73d-19cd-41c3-976d-12d9b0a1cc3d.spx
+ui\zeta\phoenix\sources\videos\dlc_vaas_mirror.bik_d755eaa6-a456-4410-ae18-33aa65d5b355.spx
 ui\zeta\phoenix\sources\videos\eastern_region_complete_dani_f.bik_376327c1-b100-4b53-888a-05e723f3c1d5.spx
 ui\zeta\phoenix\sources\videos\eastern_region_complete_dani_m.bik_7e6d8118-6f5f-4dd9-a2db-d036be352dfd.spx
 ui\zeta\phoenix\sources\videos\mgs_test_bg.bik_f66bafa6-a572-4f56-ad72-c9a7674905e1.spx
