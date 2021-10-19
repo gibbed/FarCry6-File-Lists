@@ -1,4 +1,4 @@
-; 11990/18545 (64%)
+; 11994/18545 (64%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
@@ -8742,6 +8742,7 @@ ui\zeta\phoenix\sources\images\3d_party_stick_up.png_96a16677-ae14-41aa-9f33-4d9
 ui\zeta\phoenix\sources\images\as01_deaddrop_icon_loc1.png_5deb7555-5599-4be9-9a0b-39b8866e4e89.spx
 ui\zeta\phoenix\sources\images\bg_currency_0.png_a4b0f0f7-9e81-49dc-bb0d-dee161054d4a.spx
 ui\zeta\phoenix\sources\images\bg_dlc0.png_bf227c34-ec08-4500-9d9a-ead74e326d86.spx
+ui\zeta\phoenix\sources\images\bg_weapon.png_1111048e-fb7d-4e54-8781-10fc29c11fe1.spx
 ui\zeta\phoenix\sources\images\black64x64.png_dd93bc55-a046-4def-8f1a-f65c20b64e9b.spx
 ui\zeta\phoenix\sources\images\blood_splatter01_temp.png_05866afe-f1c3-43f9-ac2f-c84c00f99d42.spx
 ui\zeta\phoenix\sources\images\camera.png_4a01a23e-e1de-4161-8a11-5f9a043222cb.spx
@@ -9582,6 +9583,9 @@ ui\zeta\phoenix\sources\images\tx_statuseffect_iconburn.png_f4da4f48-8491-44cd-b
 ui\zeta\phoenix\sources\images\tx_statuseffecthalfcircle.png_805bb6b5-3f50-4215-9f5a-d45ac098b801.spx
 ui\zeta\phoenix\sources\images\tx_store_list_maskbottom.png_5cd95af9-7b40-4ad1-8f16-6160a727346c.spx
 ui\zeta\phoenix\sources\images\tx_store_list_masktop.png_fe80c60d-45c8-41df-a45e-c6ea2ab888df.spx
+ui\zeta\phoenix\sources\images\tx_storecelebrationmsg_bottomline.png_0940549f-6428-4c0b-bff2-23703eed703f.spx
+ui\zeta\phoenix\sources\images\tx_storecelebrationmsg_topline.png_c8c637b6-ded3-42dd-845c-54f8ab644c43.spx
+ui\zeta\phoenix\sources\images\tx_storemsg_bottomline.png_c2d2daf1-e590-4ea1-9631-3e204ff9fba1.spx
 ui\zeta\phoenix\sources\images\tx_storemsg_topline.png_26b8c718-5904-4517-8296-00d38088d20b.spx
 ui\zeta\phoenix\sources\images\tx_summary_description_separator.png_a324e4e2-2659-49ec-bb76-54f27887dcfd.spx
 ui\zeta\phoenix\sources\images\tx_survivalistbg.png_08b9f29b-7fe7-4aff-ae94-920155d7776c.spx
